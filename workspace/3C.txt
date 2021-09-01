@@ -1,0 +1,28 @@
+0	7:10- 7:55	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	Wychowaniefizyczne-1/2 KM BSG1
+Wychowaniefizyczne-2/2 TS BSG	 	Wychowaniefizyczne-2/2 TS SG2	SiecikomputeroweD_DW JR 38
+1	8:00- 8:45	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	Wychowaniefizyczne-1/2 KM BSG1
+Wychowaniefizyczne-2/2 TS BSG	Wychowaniefizyczne-1/2 KM SG4	 	Pracowniasiecikomputerowych-1/2 RK 42
+Pracowniasiecikomputerowych-2/2 KZ 43
+2	8:50- 9:35	Pracowniaurządzeńtechnikikomputerowej-1/2 SZ 62
+InformatykaD_DW-2/2 SŁ 50	Podstawyprzedsiębiorczości MN B101	InformatykaD_DW-2/2 SŁ 58	Programowanie WK 37	Pracowniasiecikomputerowych-1/2 RK 42
+Pracowniasiecikomputerowych-2/2 KZ 43
+3	9:50-10:35	Językniemiecki-1/2 RM 21
+Językniemiecki-2/2 TE 34	Językpolski AR B102	InformatykaD_DW-1/2 SŁ 50
+Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Językniemiecki-1/2 RM 21
+Językniemiecki-2/2 TE 34	BazydanychD_DW JR 57
+4	10:40-11:25	Witrynyiaplikacjeinternetowe AW 57	Językpolski AR B107	InformatykaD_DW-1/2 SŁ 50
+Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Chemia MW 26	Matematyka AG 18
+5	11:30-12:15	Językangielski-1/2 SL 31
+Językangielski-2/2 JO 32	HistoriaD_DW WS B103	Językangielski-1/2 SL 31
+Językangielski-2/2 JO 32	Pracowniaurządzeńtechnikikomputerowej-1/2 SZ 62
+Pracowniawitryninternetowych-2/2 AW 56	Pracowniasystemówoperacyjnych-1/2 RK 42
+Pracowniasystemówoperacyjnych-2/2 SŁ 56
+6	12:30-13:15	Językangielski-1/2 SL 31
+Językangielski-2/2 JO 32	Fizyka KJ B108	Językangielski-1/2 SL 31
+Językangielski-2/2 JO 32	Zajęciazwychowawcą SL 31	Pracowniasystemówoperacyjnych-1/2 RK 42
+Pracowniasystemówoperacyjnych-2/2 SŁ 56
+7	13:20-14:05	SiecikomputeroweD_DW JR 37	HistoriaD_DW WS B103	Językpolski AR 23	Matematyka AG 18	Matematyka AG 18
+8	14:10-14:55	3P_A/3P_B/3P_C/Etyka|37a61_P-1/2 #3P_A/3P_B/3P_C/Etyka|37a61 22
+3P_B/3P_C/Religia|32de1_P-2/2 #3P_B/3P_C/Religia|32de1 16	Biologia NI B107	Matematyka AG 18	Geografia NM 36	Pracowniawitryninternetowych-1/2 AW 58
+9	15:00-15:45	3P_A/3P_B/3P_C/Etyka|37a61_P-1/2 #3P_A/3P_B/3P_C/Etyka|37a61 22
+3P_B/3P_C/Religia|32de1_P-2/2 #3P_B/3P_C/Religia|32de1 16	 	Matematyka AG 18	 	 

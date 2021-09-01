@@ -1,0 +1,34 @@
+0	7:10- 7:55	1A/1B/1C/JęzykniemieckiDSDIPro|30ea4_P #1A/1B/1C/JęzykniemieckiDSDIPro|30ea4 34	1A/1B/Językhiszpański|37a2b_P-4/7 #1A/1B/Językhiszpański|37a2b 46	 	 	Wychowaniefizyczne-1/7 ZI BSG
+1A/1B/Wychowaniefizyczne|36bce_P-2/7 #1A/1B/Wychowaniefizyczne|36bce SG1
+1	8:00- 8:45	1A/1B/1C/JęzykniemieckiDSDIPro|30ea4_P #1A/1B/1C/JęzykniemieckiDSDIPro|30ea4 34	1A/1B/Językhiszpański|37a2b_P-4/7 #1A/1B/Językhiszpański|37a2b 46	Matematyka DS 17	Geografia NM 36	Wychowaniefizyczne-1/7 ZI BSG
+1A/1B/Wychowaniefizyczne|36bce_P-2/7 #1A/1B/Wychowaniefizyczne|36bce SG1
+2	8:50- 9:35	Plastyka TE 34	Urządzeniatechnikikomputerowej SZ 44	Biologia NI 37	 	 
+3	9:50-10:35	SiecikomputeroweD_DW JR 36	Pracowniasiecikomputerowych-1/2 RK 42
+Pracowniasiecikomputerowych-2/2 KZ 43	Matematyka DS 34	Wychowaniefizyczne-1/7 ZI SG4
+1A/1B/Wychowaniefizyczne|36bce_P-2/7 #1A/1B/Wychowaniefizyczne|36bce SG1	Edukacjadlabezpieczeństwa MN B101
+4	10:40-11:25	Językangielski-1/2 SK 22
+Językangielski-2/2 IS 30	Pracowniasiecikomputerowych-1/2 RK 42
+Pracowniasiecikomputerowych-2/2 KZ 43	Religia-2/7 RA 46	 	Fizyka KJ B108
+5	11:30-12:15	HistoriaD_DW WS 33	Zajęciazwychowawcą JR 37	Językangielski-1/2 SK 22
+Językangielski-2/2 IS 30	Matematyka DS 34	Bezpieczeństwoihigienapracy MN B101
+6	12:30-13:15	HistoriaD_DW WS 27	Językangielski-1/2 SK 22
+Językangielski-2/2 IS 30	Systemyoperacyjne DR 46	Pracowniaurządzeńtechnikikomputerowej-1/2 SŁ 61
+Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Językangielski-1/2 SK 22
+Językangielski-2/2 IS 30
+7	13:20-14:05	Językpolski KL 28	Systemyoperacyjne DR 38	Informatyka-1/2 PK 40
+Pracowniasystemówoperacyjnych-2/2 DR 42	Językpolski KL 28	Chemia MW 26
+8	14:10-14:55	Językpolski KL 28	Systemyoperacyjne DR 38	Religia-2/7 RA 27	Urządzeniatechnikikomputerowej SZ 44	1A/1B/1C/1D/1E/1F/Językrosyjski|37a34_P-1/7 #1A/1B/1C/1D/1E/1F/Językrosyjski|37a34 20
+1F/1A/1B/1C/1D/1E/Językniemiecki|37a3e_P-2/7 #1F/1A/1B/1C/1D/1E/Językniemiecki|37a3e 38
+1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d_P-3/7 #1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d 31
+1A/1B/1C/Językniemiecki|37a2d_P-5/7 #1A/1B/1C/Językniemiecki|37a2d 27
+1A/1B/1C/Językniemiecki|37a28_P-6/7 #1A/1B/1C/Językniemiecki|37a28 22
+1A/1B/1C/Językniemiecki|37a2c_P-7/7 #1A/1B/1C/Językniemiecki|37a2c 34
+9	15:00-15:45	Pracowniasystemówoperacyjnych-1/2 DR 42
+Informatyka-2/2 SŁ 56	 	 	 	1A/1B/1C/1D/1E/1F/Językrosyjski|37a34_P-1/7 #1A/1B/1C/1D/1E/1F/Językrosyjski|37a34 20
+1F/1A/1B/1C/1D/1E/Językniemiecki|37a3e_P-2/7 #1F/1A/1B/1C/1D/1E/Językniemiecki|37a3e 38
+1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d_P-3/7 #1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d 31
+1A/1B/1C/Językniemiecki|37a2d_P-5/7 #1A/1B/1C/Językniemiecki|37a2d 27
+1A/1B/1C/Językniemiecki|37a28_P-6/7 #1A/1B/1C/Językniemiecki|37a28 22
+1A/1B/1C/Językniemiecki|37a2c_P-7/7 #1A/1B/1C/Językniemiecki|37a2c 34
+10	15:50-16:35	1A/1B/1C/1D/1E/1F/Etyka|3778e_P-1/7 #1A/1B/1C/1D/1E/1F/Etyka|3778e 22	 	 	 	 
+12	0:00- 0:00	1A/1B/1C/1D/1E/1F/Etyka|3778e_P-1/7 #1A/1B/1C/1D/1E/1F/Etyka|3778e 22	 	 	 	 

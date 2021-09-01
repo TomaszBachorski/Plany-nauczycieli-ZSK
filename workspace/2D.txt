@@ -1,0 +1,28 @@
+0	7:10- 7:55	 	2D/2F/JęzykniemieckiDSDIPro|37a50_P #2D/2F/JęzykniemieckiDSDIPro|37a50 34	 	2A/2B/2C/2D/2E/2F/2G/Etyka|373e7_P-1/4 #2A/2B/2C/2D/2E/2F/2G/Etyka|373e7 22	 
+1	8:00- 8:45	Wychowaniefizyczne-1/4 WZ SG3
+2D/2E/Wychowaniefizyczne|37f75_P-2/4 #2D/2E/Wychowaniefizyczne|37f75 SG4	2D/2F/JęzykniemieckiDSDIPro|37a50_P #2D/2F/JęzykniemieckiDSDIPro|37a50 34	Fizyka KJ 27	2A/2B/2C/2D/2E/2F/2G/Etyka|373e7_P-1/4 #2A/2B/2C/2D/2E/2F/2G/Etyka|373e7 22	Pracowniaprogramowaniaobiektowego-1/2 MS 58
+Pracowniaaplikacjiinternetowych-2/2 AW 41
+2	8:50- 9:35	 	Matematyka MR 16	Językpolski AR 23	Tworzenieaplikacjiinternetowych AW 33	Pracowniaprogramowaniaobiektowego-1/2 MS 58
+Pracowniaaplikacjiinternetowych-2/2 AW 40
+3	9:50-10:35	Programowanieobiektowe MS 32	Matematyka MR 16	Programowanieobiektowe MS 44	Historia OK 38	Pracowniaaplikacjiinternetowych-1/2 AW 56
+Pracowniaprogramowaniaobiektowego-2/2 MS 58
+4	10:40-11:25	Projektowanieoprogramowania ŁG 31	2D/2E/Językangielski|32df2_P-1/4 #2D/2E/Językangielski|32df2 20
+2D/2E/Językangielski|32df1_P-2/4 #2D/2E/Językangielski|32df1 30
+2D/2E/Językangielski|32df3_P-3/4 #2D/2E/Językangielski|32df3 31
+2D/2E/Językangielski|32df0_P-4/4 #2D/2E/Językangielski|32df0 32	Pracowniabazdanych-1/2 JR 41
+Informatyka-2/2 DS 58	Systemybazdanych JR 44	Pracowniaaplikacjiinternetowych-1/2 AW 56
+Pracowniaprogramowaniaobiektowego-2/2 MS 58
+5	11:30-12:15	Zajęciazwychowawcą MR 16	2D/2E/Językangielski|32df2_P-1/4 #2D/2E/Językangielski|32df2 20
+2D/2E/Językangielski|32df1_P-2/4 #2D/2E/Językangielski|32df1 30
+2D/2E/Językangielski|32df3_P-3/4 #2D/2E/Językangielski|32df3 31
+2D/2E/Językangielski|32df0_P-4/4 #2D/2E/Językangielski|32df0 32	Pracowniabazdanych-1/2 JR 41
+Informatyka-2/2 DS 58	Matematyka MR 16	Biologia NI 37
+6	12:30-13:15	Językpolski AR 23	Historia OK 38	Językniemiecki-1/2 PI 44
+Językniemiecki-2/2 TE 34	Informatyka-1/2 KP 40
+Pracowniabazdanych-2/2 JR 41	Chemia MW 26
+7	13:20-14:05	Językpolski AR 23	Religia-2/6 PS 23	Językniemiecki-1/2 PI 44
+Językniemiecki-2/2 TE 34	Informatyka-1/2 KP 40
+Pracowniabazdanych-2/2 JR 41	Systemybazdanych JR 44
+8	14:10-14:55	Podstawyprzedsiębiorczości MN 33	Religia-2/6 PS 23	Wychowaniefizyczne-1/4 WZ SG2		 
+9	15:00-15:45	Tworzenieaplikacjiinternetowych AW 27	Geografia NM 36	Wychowaniefizyczne-1/4 WZ SG2	2D/2E/Wychowaniefizyczne|37f75_P-2/4 #2D/2E/Wychowaniefizyczne|37f75 SG1	 
+10	15:50-16:35	 	 	 	2D/2E/Wychowaniefizyczne|37f75_P-2/4 #2D/2E/Wychowaniefizyczne|37f75 SG1	 

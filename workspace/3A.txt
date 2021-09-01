@@ -1,0 +1,35 @@
+0	7:10- 7:55	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	 	 	 	 
+1	8:00- 8:45	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
+Układycyfrowe-2/6 KZ 22	 	Wychowaniefizyczne TS SG2	Pracowniaelektrycznaielektroniczna-1/6 JG 48
+Urządzeniaiinstalacjeelektroniczne-2/6 RG 23
+2	8:50- 9:35	Historia OK 38	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
+Pomiaryelektryczneielektroniczne-2/6 JG 47	Matematyka KP 17	Wychowaniefizyczne TS SG2	Pracowniaelektrycznaielektroniczna-1/6 JG 48
+Urządzeniaiinstalacjeelektroniczne-2/6 RG 23
+3	9:50-10:35	Maszynyiurządzeniaelektryczne-1/6 AS 27
+Pracowniaeksploatacjiurządzeńelektronicznych-2/6 RG 47	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
+Pomiaryelektryczneielektroniczne-2/6 JG 47	Matematyka KP 17	 	Pracowniaelektrycznaielektroniczna-1/6 JG 48
+Systemymikroprocesorowe-2/6 RT 37
+4	10:40-11:25	Maszynyiurządzeniaelektryczne-1/6 AS 27
+Pracowniaeksploatacjiurządzeńelektronicznych-2/6 RG 47	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
+Pomiaryelektryczneielektroniczne-2/6 JG 47	Zajęciazwychowawcą RG 47	Historia OK 38	Językniemiecki-1/2 RM 21
+Językniemiecki-2/2 JT 27
+5	11:30-12:15	Religia-2/6 PS 17	Podstawyprzedsiębiorczości MN 33	Fizyka KJ 27	Sieciipodstacjetrakcyjne-1/6 ZF 44
+Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/6 RG 48	Językpolski PA 36
+6	12:30-13:15	Religia-2/6 PS 17	Matematyka KP 17	Sieciipodstacjetrakcyjne-1/6 ZF 48
+Układyanalogowe-2/6 RG 57	Sieciipodstacjetrakcyjne-1/6 ZF 44
+Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/6 RG 48	Językpolski PA 36
+7	13:20-14:05	Matematyka KP 17	Informatyka-1/2 KP 40
+Informatyka-2/2 DS 58	Językniemiecki-1/2 RM 21
+Językniemiecki-2/2 JT 20	Fizyka KJ 27	3P_A/3P_B/3P_D/Językangielski|32de0_P-1/6 #3P_A/3P_B/3P_D/Językangielski|32de0 57
+2P_A/2P_B/2P_D/Językangielski|31856_P-2/6 #2P_A/2P_B/2P_D/Językangielski|31856 31
+3P_A/3P_B/3P_D/Językangielski|37a62_P-3/6 #3P_A/3P_B/3P_D/Językangielski|37a62 30
+3P_A/3P_B/3P_D/Językangielski|37a60_P-4/6 #3P_A/3P_B/3P_D/Językangielski|37a60 32
+3P_A/3P_B/3P_D/Językangielski|36bd4_P-5/6 #3P_A/3P_B/3P_D/Językangielski|36bd4 22
+3P_A/3P_B/3P_D/Językangielski|37a63_P-6/6 #3P_A/3P_B/3P_D/Językangielski|37a63 20
+8	14:10-14:55	3P_A/3P_B/3P_C/Etyka|37a61_P-1/6 #3P_A/3P_B/3P_C/Etyka|37a61 22	Geografia NM 36	Biologia NI 37	3P_A/3P_B/3P_D/Językangielski|32de0_P-1/6 #3P_A/3P_B/3P_D/Językangielski|32de0 16
+2P_A/2P_B/2P_D/Językangielski|31856_P-2/6 #2P_A/2P_B/2P_D/Językangielski|31856 31
+3P_A/3P_B/3P_D/Językangielski|37a62_P-3/6 #3P_A/3P_B/3P_D/Językangielski|37a62 30
+3P_A/3P_B/3P_D/Językangielski|37a60_P-4/6 #3P_A/3P_B/3P_D/Językangielski|37a60 32
+3P_A/3P_B/3P_D/Językangielski|36bd4_P-5/6 #3P_A/3P_B/3P_D/Językangielski|36bd4 22
+3P_A/3P_B/3P_D/Językangielski|37a63_P-6/6 #3P_A/3P_B/3P_D/Językangielski|37a63 20	 
+9	15:00-15:45	3P_A/3P_B/3P_C/Etyka|37a61_P-1/6 #3P_A/3P_B/3P_C/Etyka|37a61 22	Matematyka KP 17	Językpolski PA 26	Chemia MW 26	Wychowaniefizyczne TS SG4

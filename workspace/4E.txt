@@ -1,0 +1,26 @@
+0	7:10- 7:55	 	 	4C/4D/4E/Religia|3336d_P #4C/4D/4E/Religia|3336d 28	 	 
+1	8:00- 8:45	Pracowniainstalacjiautomatykiprzemysłowej-2/2 WR 46	 	Historiaispołeczeństwo WL 32	 	Informatyka-1/2 AL 51
+2	8:50- 9:35	Pracowniatechnologiiipomiarówwautomatyce-1/2 SO 44
+Pracowniainstalacjiautomatykiprzemysłowej-2/2 WR 46	Wychowaniefizyczne MT SG1	4D/4E/Językangielski|32ddb_P-1/4 #4D/4E/Językangielski|32ddb 30
+4D/4E/Językangielski|32dd8_P-2/4 #4D/4E/Językangielski|32dd8 20
+4D/4E/Językangielski|37a68_P-3/4 #4D/4E/Językangielski|37a68 22
+4D/4E/Językangielski|32dda_P-4/4 #4D/4E/Językangielski|32dda 31	 	Instalacjeautomatykiprzemysłowej FN 34
+3	9:50-10:35	Pracowniatechnologiiipomiarówwautomatyce-1/2 SO 44
+Pracowniainstalacjiautomatykiprzemysłowej-2/2 WR 46	Wychowaniefizyczne MT SG1	4D/4E/Językangielski|32ddb_P-1/4 #4D/4E/Językangielski|32ddb 30
+4D/4E/Językangielski|32dd8_P-2/4 #4D/4E/Językangielski|32dd8 20
+4D/4E/Językangielski|37a68_P-3/4 #4D/4E/Językangielski|37a68 22
+4D/4E/Językangielski|32dda_P-4/4 #4D/4E/Językangielski|32dda 31	 	4D/4E/Językangielski|32ddb_P-1/4 #4D/4E/Językangielski|32ddb 30
+4D/4E/Językangielski|32dd8_P-2/4 #4D/4E/Językangielski|32dd8 20
+4D/4E/Językangielski|37a68_P-3/4 #4D/4E/Językangielski|37a68 22
+4D/4E/Językangielski|32dda_P-4/4 #4D/4E/Językangielski|32dda 31
+4	10:40-11:25	Pracowniainstalacjiautomatykiprzemysłowej-1/2 WR 46
+Pracowniatechnologiiipomiarówwautomatyce-2/2 SO 44	 	Historiaispołeczeństwo WL 57	 	Matematyka MW 26
+5	11:30-12:15	Pracowniainstalacjiautomatykiprzemysłowej-1/2 WR 46
+Pracowniatechnologiiipomiarówwautomatyce-2/2 SO 44	Działalnośćgospodarcza NM 36	Językpolski AR 23	Matematyka MW 26	Matematyka MW 26
+6	12:30-13:15	Pracowniainstalacjiautomatykiprzemysłowej-1/2 WR 46
+Informatyka-2/2 ŁG 50	Zajęciazwychowawcą MW 26	Językpolski AR 23	Językangielskizawodowy EI 33	Językpolski AR 23
+7	13:20-14:05	Matematyka MW 27	Matematyka MW 26	 	Matematyka MW 26	Instalacjeautomatykiprzemysłowej FN 33
+8	14:10-14:55	 	Matematyka MW 26	Wychowaniefizyczne MT SG4	Informatyka-1/2 AL 51
+Informatyka-2/2 ŁG 50	 
+9	15:00-15:45	 	 	 	Informatyka-1/2 AL 51
+Informatyka-2/2 ŁG 50	 

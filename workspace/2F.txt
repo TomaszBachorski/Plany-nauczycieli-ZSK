@@ -1,0 +1,32 @@
+0	7:10- 7:55	 	2D/2F/JęzykniemieckiDSDIPro|37a50_P #2D/2F/JęzykniemieckiDSDIPro|37a50 34	Podstawyprzedsiębiorczości MN 33	2A/2B/2C/2D/2E/2F/2G/Etyka|373e7_P-1/4 #2A/2B/2C/2D/2E/2F/2G/Etyka|373e7 22	 
+1	8:00- 8:45	Informatyka-1/2 KP 40	2D/2F/JęzykniemieckiDSDIPro|37a50_P #2D/2F/JęzykniemieckiDSDIPro|37a50 34	Matematyka AG 18	2A/2B/2C/2D/2E/2F/2G/Etyka|373e7_P-1/4 #2A/2B/2C/2D/2E/2F/2G/Etyka|373e7 22	 
+2	8:50- 9:35	Zajęciazwychowawcą KM 32	Informatyka-2/2 DS 43	Matematyka AG 18	Historia OK 38	 
+3	9:50-10:35	Inf-1/2 58 DS
+Ele-2/2 43 KZ	Fizyka KS 27	Historia OK 38	Elektrotechnikaielektronika-1/4 KZ 18
+Urządzeniaiinstalacjeelektroniczne-2/4 RG 44	Językpolski AR 23
+4	10:40-11:25	Językpolski AR 23	Językniemiecki-1/2 TE 34
+Językniemiecki-2/2 JT 26	Biologia NI 37	Geografia NM 36	Pracowniaelektrycznaielektroniczna-1/4 JG 48
+Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/4 RG 47
+5	11:30-12:15	Językpolski AR 23	Pracowniaurządzeńautomatykiprzemysłowej-1/4 ZW 46
+Pomiaryelektryczneielektroniczne-2/4 JG 48	Religia-2/4 RA SwF	Matematyka AG 18	Pracowniaelektrycznaielektroniczna-1/4 JG 48
+Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/4 RG 47
+6	12:30-13:15	Chemia AJ 26	Pracowniaurządzeńautomatykiprzemysłowej-1/4 ZW 46
+Pomiaryelektryczneielektroniczne-2/4 JG 48	Religia-2/4 RA SwF	Urządzeniaautomatykiprzemysłowej-1/4 FN 21
+Układycyfrowe-2/4 KZ 23	Pracowniaelektrycznaielektroniczna-1/4 JG 48
+Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/4 RG 47
+7	13:20-14:05	 	Pracowniaurządzeńautomatykiprzemysłowej-1/4 ZW 46
+Pomiaryelektryczneielektroniczne-2/4 JG 48	 	Technologieipomiarywautomatyce-1/4 RT 23
+Układyanalogowe-2/4 RG 34	Językniemiecki-1/2 TE 34
+Językniemiecki-2/2 JT 27
+8	14:10-14:55	Wychowaniefizyczne KM SG2	Fizyka-1/4 KS 27
+Układycyfrowe-2/4 KZ 37	Wychowaniefizyczne KM 28	Technologieipomiarywautomatyce-1/4 RT 23
+Układyanalogowe-2/4 RG 34	Instalacjeautomatykiprzemysłowej-1/4 FN 33
+Urządzeniaiinstalacjeelektroniczne-2/4 RG 44
+9	15:00-15:45	Wychowaniefizyczne KM SG2	2F/2G/Językangielski|37a53_P-1/4 #2F/2G/Językangielski|37a53 20
+2F/2G/Językangielski|37a54_P-2/4 #2F/2G/Językangielski|37a54 30
+2F/2G/Językangielski|37a4f_P-3/4 #2F/2G/Językangielski|37a4f 22
+1F/1G/Językangielski|318ed_P-4/4 #1F/1G/Językangielski|318ed 31	 	2F/2G/Językangielski|37a53_P-1/4 #2F/2G/Językangielski|37a53 20
+2F/2G/Językangielski|37a54_P-2/4 #2F/2G/Językangielski|37a54 30
+2F/2G/Językangielski|37a4f_P-3/4 #2F/2G/Językangielski|37a4f 22
+1F/1G/Językangielski|318ed_P-4/4 #1F/1G/Językangielski|318ed 31	Technologieipomiarywautomatyce-1/4 RT 57
+Urządzeniaiinstalacjeelektroniczne-2/4 RG 44

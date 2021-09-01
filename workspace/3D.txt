@@ -1,0 +1,30 @@
+0	7:10- 7:55	 	 	Pracowniaurządzeńautomatykiprzemysłowej-2/2 ZW 46	 	 
+1	8:00- 8:45	 	Chemia MW B109	Pracowniaelektrycznaielektroniczna-1/2 RG 47
+Pracowniaurządzeńautomatykiprzemysłowej-2/2 ZW 46	Historia OK 38	 
+2	8:50- 9:35	Zajęciazwychowawcą KP 17	Wychowaniefizyczne KM BSG1	Pracowniaelektrycznaielektroniczna-1/2 RG 47
+Pracowniaurządzeńautomatykiprzemysłowej-2/2 ZW 46	 	 
+3	9:50-10:35	Matematyka KP 17	Wychowaniefizyczne KM BSG1	Pracowniaelektrycznaielektroniczna-1/2 RG 47
+Pracowniaurządzeńautomatykiprzemysłowej-2/2 ZW 46	Wychowaniefizyczne KM SG3	Urządzeniaautomatykiprzemysłowej FN 34
+4	10:40-11:25	Podstawyprzedsiębiorczości MN 33	Religia PS B101	Językniemiecki-1/2 PI 44
+Językniemiecki-2/2 JT 32	 	Instalacjeautomatykiprzemysłowej FN 34
+5	11:30-12:15	Pracowniaurządzeńautomatykiprzemysłowej-1/2 ZW 47
+Pracowniaelektrycznaielektroniczna-2/2 JG 48	Religia PS B107	Językniemiecki-1/2 PI 44
+Językniemiecki-2/2 JT 20	Matematyka KP 17	Matematyka KP 17
+6	12:30-13:15	Pracowniaurządzeńautomatykiprzemysłowej-1/2 ZW 47
+Pracowniaelektrycznaielektroniczna-2/2 JG 48	Językpolski PA B201	Informatyka-1/2 ŁG 50
+Informatyka-2/2 AL 51	Historia OK 38	Matematyka KP 17
+7	13:20-14:05	Pracowniaurządzeńautomatykiprzemysłowej-1/2 ZW 46
+Pracowniaelektrycznaielektroniczna-2/2 JG 48	Językpolski PA B201	Informatyka-1/2 ŁG 50
+Informatyka-2/2 AL 51	Językpolski PA 57	3P_A/3P_B/3P_D/Językangielski|32de0_P-1/6 #3P_A/3P_B/3P_D/Językangielski|32de0 57
+2P_A/2P_B/2P_D/Językangielski|31856_P-2/6 #2P_A/2P_B/2P_D/Językangielski|31856 31
+3P_A/3P_B/3P_D/Językangielski|37a62_P-3/6 #3P_A/3P_B/3P_D/Językangielski|37a62 30
+3P_A/3P_B/3P_D/Językangielski|37a60_P-4/6 #3P_A/3P_B/3P_D/Językangielski|37a60 32
+3P_A/3P_B/3P_D/Językangielski|36bd4_P-5/6 #3P_A/3P_B/3P_D/Językangielski|36bd4 22
+3P_A/3P_B/3P_D/Językangielski|37a63_P-6/6 #3P_A/3P_B/3P_D/Językangielski|37a63 20
+8	14:10-14:55	Pracowniaurządzeńautomatykiprzemysłowej-1/2 ZW 46	Fizyka KJ B108	Matematyka KP 17	3P_A/3P_B/3P_D/Językangielski|32de0_P-1/6 #3P_A/3P_B/3P_D/Językangielski|32de0 16
+2P_A/2P_B/2P_D/Językangielski|31856_P-2/6 #2P_A/2P_B/2P_D/Językangielski|31856 31
+3P_A/3P_B/3P_D/Językangielski|37a62_P-3/6 #3P_A/3P_B/3P_D/Językangielski|37a62 30
+3P_A/3P_B/3P_D/Językangielski|37a60_P-4/6 #3P_A/3P_B/3P_D/Językangielski|37a60 32
+3P_A/3P_B/3P_D/Językangielski|36bd4_P-5/6 #3P_A/3P_B/3P_D/Językangielski|36bd4 22
+3P_A/3P_B/3P_D/Językangielski|37a63_P-6/6 #3P_A/3P_B/3P_D/Językangielski|37a63 20	Technologieipomiarywautomatyce RT 57
+9	15:00-15:45	 	Biologia NI B107	Geografia NM 36	Instalacjeautomatykiprzemysłowej FN 21	Urządzeniaautomatykiprzemysłowej FN 33

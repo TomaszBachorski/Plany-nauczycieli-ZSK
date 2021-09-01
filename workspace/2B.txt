@@ -1,0 +1,27 @@
+0	7:10- 7:55	 	 	 	2A/2B/2C/2D/2E/2F/2G/Etyka|373e7_P-1/4 #2A/2B/2C/2D/2E/2F/2G/Etyka|373e7 22	 
+1	8:00- 8:45	Religia-2/4 PS 33	Siecikomputerowe RK 57	Pracowniasiecikomputerowych-1/2 KZ 43
+Pracowniasystemówoperacyjnych-2/2 MS 51	2A/2B/2C/2D/2E/2F/2G/Etyka|373e7_P-1/4 #2A/2B/2C/2D/2E/2F/2G/Etyka|373e7 22	1A/1B/Językangielski|31560_P-1/4 #1A/1B/Językangielski|31560 32
+1A/1B/Językangielski|3155e_P-2/4 #1A/1B/Językangielski|3155e 20
+1A/1B/Językangielski|3155f_P-3/4 #1A/1B/Językangielski|3155f 22
+2A/2B/Językangielski|37a42_P-4/4 #2A/2B/Językangielski|37a42 30
+2	8:50- 9:35	Religia-2/4 PS 33	 	Pracowniasiecikomputerowych-1/2 KZ 43
+Pracowniasystemówoperacyjnych-2/2 MS 51	Informatyka-1/2 KP 50
+Informatyka-2/2 DS 58	Matematyka AG 18
+3	9:50-10:35	Językpolski KL 28	Wychowaniefizyczne-1/4 SW SG3
+2A/2B/Wychowaniefizyczne|37a43_P-2/4 #2A/2B/Wychowaniefizyczne|37a43 SG4	Biologia NI 37	Informatyka-1/2 KP 50
+Informatyka-2/2 DS 58	Pracowniaurządzeńtechnikikomputerowej-1/2 SŁ 61
+Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62
+4	10:40-11:25	Historia WS 34	 	Fizyka KJ 27	Zajęciazwychowawcą KZ 27	Pracowniaurządzeńtechnikikomputerowej-1/2 SŁ 61
+Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62
+5	11:30-12:15	Matematyka AG 18	J. niem. RM 21 / J. hisz. MP 26	J. niem. RM 21 / J. hisz. MP 26	 	Systemyoperacyjne DR 33
+6	12:30-13:15	Matematyka AG 18	Siecikomputerowe RK 57	Historia WS 33	Wychowaniefizyczne-1/4 SW BSG
+2A/2B/Wychowaniefizyczne|37a43_P-2/4 #2A/2B/Wychowaniefizyczne|37a43 SG2	Pracowniasystemówoperacyjnych-1/2 DR 41
+Pracowniasiecikomputerowych-2/2 KZ 43
+7	13:20-14:05	1A/1B/Językangielski|31560_P-1/4 #1A/1B/Językangielski|31560 32
+1A/1B/Językangielski|3155e_P-2/4 #1A/1B/Językangielski|3155e 20
+1A/1B/Językangielski|3155f_P-3/4 #1A/1B/Językangielski|3155f 22
+2A/2B/Językangielski|37a42_P-4/4 #2A/2B/Językangielski|37a42 30	Podstawyprzedsiębiorczości MN 33	Urządzeniatechnikikomputerowej SZ 17	Wychowaniefizyczne-1/4 SW BSG
+2A/2B/Wychowaniefizyczne|37a43_P-2/4 #2A/2B/Wychowaniefizyczne|37a43 SG2	Pracowniasystemówoperacyjnych-1/2 DR 41
+Pracowniasiecikomputerowych-2/2 KZ 43
+8	14:10-14:55	Geografia NM 36	1C/1A/1B/JęzykniemieckiDSDIPro|308d8_P #1C/1A/1B/JęzykniemieckiDSDIPro|308d8 21	Programowanie AL 34	 	Językpolski KL 28
+9	15:00-15:45	Chemia MW 26	1C/1A/1B/JęzykniemieckiDSDIPro|308d8_P #1C/1A/1B/JęzykniemieckiDSDIPro|308d8 21	Witrynyiaplikacjeinternetowe AW 44	Systemyoperacyjne DR 34	Językpolski KL 28

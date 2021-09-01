@@ -1,0 +1,32 @@
+0	7:10- 7:55	 	 	4A/4B/Religia|3336b_P-2/4 #4A/4B/Religia|3336b 17	 	4B/4C/4D/Etyka|3336c_P-1/4 #4B/4C/4D/Etyka|3336c 22
+1	8:00- 8:45	 	 	Pracowniabazdanych-1/2 HK 40
+Pracowniabazdanych-2/2 JR 41	 	Bazydanych JR 57
+2	8:50- 9:35	4B/4C/Językangielski|37a64_P-1/4 #4B/4C/Językangielski|37a64 20
+4B/4C/Językangielski|37a67_P-2/4 #4B/4C/Językangielski|37a67 30
+4B/4C/Językangielski|37a66_P-3/4 #4B/4C/Językangielski|37a66 31
+4B/4C/Językangielski|37a65_P-4/4 #4B/4C/Językangielski|37a65 22	Językpolski AB 23	Pracowniabazdanych-1/2 HK 40
+Pracowniabazdanych-2/2 JR 41	Językpolski AB 23	Historiaispołeczeństwo OK 38
+3	9:50-10:35	4B/4C/Językangielski|37a64_P-1/4 #4B/4C/Językangielski|37a64 20
+4B/4C/Językangielski|37a67_P-2/4 #4B/4C/Językangielski|37a67 30
+4B/4C/Językangielski|37a66_P-3/4 #4B/4C/Językangielski|37a66 31
+4B/4C/Językangielski|37a65_P-4/4 #4B/4C/Językangielski|37a65 22	Językpolski AB 23	Pracowniabazdanych-1/2 HK 40
+Pracowniabazdanych-2/2 JR 41	 	Historiaispołeczeństwo OK 38
+4	10:40-11:25	Matematyka AG 18	Matematyka AG 18	4B/4C/Językangielski|37a64_P-1/4 #4B/4C/Językangielski|37a64 20
+4B/4C/Językangielski|37a67_P-2/4 #4B/4C/Językangielski|37a67 30
+4B/4C/Językangielski|37a66_P-3/4 #4B/4C/Językangielski|37a66 31
+4B/4C/Językangielski|37a65_P-4/4 #4B/4C/Językangielski|37a65 22	Wychowaniefizyczne-1/2 KM SG4
+Wychowaniefizyczne-2/2 ZI SG3	Witrynyinternetowe PK 44
+5	11:30-12:15	 	Matematyka AG 18	Matematyka AG 18	 	Informatyka-1/2 AL 51
+Informatyka-2/2 ŁG 50
+6	12:30-13:15	Wychowaniefizyczne-1/2 KM SG1
+Wychowaniefizyczne-2/2 ZI SG2	Pracowniawitryninternetowych-1/2 PK 51
+Pracowniaprogramowania-2/2 MS 43	Matematyka AG 18	Matematyka AG 18	Informatyka-1/2 AL 51
+Informatyka-2/2 ŁG 50
+7	13:20-14:05	Wychowaniefizyczne-1/2 KM SG1
+Wychowaniefizyczne-2/2 ZI SG2	Pracowniawitryninternetowych-1/2 PK 51
+Pracowniaprogramowania-2/2 MS 43	 	Zajęciazwychowawcą SK 22	Informatyka-1/2 AL 51
+Informatyka-2/2 ŁG 50
+8	14:10-14:55	 	Pracowniaprogramowania-1/2 MS 43
+Pracowniawitryninternetowych-2/2 GL 56	 	 	Witrynyinternetowe GL 26
+9	15:00-15:45	 	Pracowniaprogramowania-1/2 MS 43
+Pracowniawitryninternetowych-2/2 GL 56	 	 	 

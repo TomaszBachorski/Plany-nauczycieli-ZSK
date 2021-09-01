@@ -1,0 +1,32 @@
+0	7:10- 7:55	 	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23
+Religia-2/4 RA 26	 	Działalnośćgospodarcza NM 36	 
+1	8:00- 8:45	 	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23
+Religia-2/4 RA 26	 	Matematyka MR 16	 
+2	8:50- 9:35	Zajęciazwychowawcą JG 48	3G_A/3G_D/Językangielski|37a56_P-1/4 #3G_A/3G_D/Językangielski|37a56 32
+3G_A/3G_D/Językangielski|37a57_P-2/4 #3G_A/3G_D/Językangielski|37a57 30
+3G_A/3G_D/Językangielski|37a55_P-3/4 #3G_A/3G_D/Językangielski|37a55 20
+3G_A/3G_D/Językangielski|347d2_P-4/4 #3G_A/3G_D/Językangielski|347d2 22	 	Matematyka MR 16	Fizyka KJ B108
+3	9:50-10:35	Organizacjatransportukolejowego-1/4 JJ 26
+Pracowniaeksploatacjiurządzeńelektronicznych-2/4 JG 48	3G_A/3G_D/Językangielski|37a56_P-1/4 #3G_A/3G_D/Językangielski|37a56 32
+3G_A/3G_D/Językangielski|37a57_P-2/4 #3G_A/3G_D/Językangielski|37a57 30
+3G_A/3G_D/Językangielski|37a55_P-3/4 #3G_A/3G_D/Językangielski|37a55 20
+3G_A/3G_D/Językangielski|347d2_P-4/4 #3G_A/3G_D/Językangielski|347d2 22	Kompetencjespołeczne EG SwF	 	Fizyka KJ B108
+4	10:40-11:25	Taborszynowy-1/4 WO 37
+Pracowniaeksploatacjiurządzeńelektronicznych-2/4 JG 48	Językniemiecki-1/2 RM 21
+Językniemiecki-2/2 SK 22	Matematyka MR 16	Wychowaniefizyczne SW BSG	Wychowaniefizyczne SW BSG
+5	11:30-12:15	Taborszynowy-1/4 WO 37
+Urządzeniaiinstalacjeelektroniczne-2/4 RG 34	Matematyka MR 16	Językpolski KL 28	 	Wychowaniefizyczne SW BSG
+6	12:30-13:15	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/4 AS B104
+Urządzeniaiinstalacjeelektroniczne-2/4 RG 34	Językpolski KL 28	Językniemiecki-1/2 RM 21
+Językniemiecki-2/2 SK 22	Organizacjatransportukolejowego-1/4 JJ 30
+Systemymikroprocesorowe-2/4 RT 28	Historiaispołeczeństwo MJ B102
+7	13:20-14:05	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/4 AS B104
+Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/4 RG 47	Językpolski KL 28	Pracowniamontażuiutrzymaniasiecizasilających-1/4 ZF 48
+Pracowniaeksploatacjiurządzeńelektronicznych-2/4 JG 47	Pracowniaelektrycznaielektroniczna-1/4 JG 48
+Automatykaprzemysłowa-2/4 FN 21	 
+8	14:10-14:55	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/4 AS B104
+Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/4 RG 47	Eksploatacjaurządzeńelektronicznych-2/4 JG 44	Pracowniamontażuiutrzymaniasiecizasilających-1/4 ZF 48
+Pracowniaeksploatacjiurządzeńelektronicznych-2/4 JG 47	Pracowniaelektrycznaielektroniczna-1/4 JG 48
+Automatykaprzemysłowa-2/4 FN 21	 
+9	15:00-15:45	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/4 AS B104	Eksploatacjaurządzeńelektronicznych-2/4 JG 44	Pracowniamontażuiutrzymaniasiecizasilających-1/4 ZF 48	Pracowniaelektrycznaielektroniczna-1/4 JG 48
+Systemymikroprocesorowe-2/4 RT 23	 

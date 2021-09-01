@@ -1,0 +1,32 @@
+0	7:10- 7:55	Religia-2/4 PS 33	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23	Wychowaniefizyczne-1/2 TS BSG1
+Wychowaniefizyczne-2/2 WZ BSG	Pracowniainstalacjiautomatykiprzemysłowej-1/2 RT 47
+Pracowniaurządzeńautomatykiprzemysłowej-2/2 FN 46	Pracowniaurządzeńautomatykiprzemysłowej-1/2 FN 46
+Pracowniatechnologiiipomiarówwautomatyce-2/2 RT 44
+1	8:00- 8:45	Informatyka-1/2 ŁG 56
+Informatyka-2/2 AL 51	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23	Wychowaniefizyczne-1/2 TS BSG1
+Wychowaniefizyczne-2/2 WZ BSG	Pracowniainstalacjiautomatykiprzemysłowej-1/2 RT 47
+Pracowniaurządzeńautomatykiprzemysłowej-2/2 FN 46	Pracowniaurządzeńautomatykiprzemysłowej-1/2 FN 46
+Pracowniatechnologiiipomiarówwautomatyce-2/2 RT 44
+2	8:50- 9:35	Informatyka-1/2 ŁG 56
+Informatyka-2/2 AL 51	3G_A/3G_D/Językangielski|37a56_P-1/4 #3G_A/3G_D/Językangielski|37a56 32
+3G_A/3G_D/Językangielski|37a57_P-2/4 #3G_A/3G_D/Językangielski|37a57 30
+3G_A/3G_D/Językangielski|37a55_P-3/4 #3G_A/3G_D/Językangielski|37a55 20
+3G_A/3G_D/Językangielski|347d2_P-4/4 #3G_A/3G_D/Językangielski|347d2 22	Wychowaniefizyczne-1/2 TS BSG1
+Wychowaniefizyczne-2/2 WZ BSG	Pracowniainstalacjiautomatykiprzemysłowej-1/2 RT 47
+Pracowniaurządzeńautomatykiprzemysłowej-2/2 FN 46	Historiaispołeczeństwo MJ 21
+3	9:50-10:35	Religia-2/4 PS 33	3G_A/3G_D/Językangielski|37a56_P-1/4 #3G_A/3G_D/Językangielski|37a56 32
+3G_A/3G_D/Językangielski|37a57_P-2/4 #3G_A/3G_D/Językangielski|37a57 30
+3G_A/3G_D/Językangielski|37a55_P-3/4 #3G_A/3G_D/Językangielski|37a55 20
+3G_A/3G_D/Językangielski|347d2_P-4/4 #3G_A/3G_D/Językangielski|347d2 22	 	Pracowniatechnologiiipomiarówwautomatyce-1/2 FN 46
+Pracowniainstalacjiautomatykiprzemysłowej-2/2 RT 47	Instalacjeautomatykiprzemysłowej RG 32
+4	10:40-11:25	Matematyka DS 17	Matematyka DS 17	Kompetencjespołeczne EG SwF	Pracowniaurządzeńautomatykiprzemysłowej-1/2 FN 46
+Pracowniainstalacjiautomatykiprzemysłowej-2/2 RT 47	Językpolski KL 28
+5	11:30-12:15	 	Instalacjeautomatykiprzemysłowej RG 44	Instalacjeautomatykiprzemysłowej RG 57	Pracowniatechnologiiipomiarówwautomatyce-1/2 FN 46
+Pracowniainstalacjiautomatykiprzemysłowej-2/2 RT 47	Urządzeniaautomatykiprzemysłowej FN 34
+6	12:30-13:15	 	Pracowniaelektrycznaielektroniczna-1/2 RG 47
+Językniemiecki-2/2 PI 44	Językpolski KL 28	Matematyka DS 34	Urządzeniaautomatykiprzemysłowej FN 33
+7	13:20-14:05	 	Pracowniaelektrycznaielektroniczna-1/2 RG 47
+Językniemiecki-2/2 PI 44	Językpolski KL 28	Zajęciazwychowawcą PI 33	Językniemiecki-1/2 PI 17
+Pracowniaelektrycznaielektroniczna-2/2 JG 48
+8	14:10-14:55	 	Pracowniaelektrycznaielektroniczna-1/2 RG 47	 	Językniemiecki-1/2 PI 33	Pracowniaelektrycznaielektroniczna-2/2 JG 48
+9	15:00-15:45	 	 	 	 	Pracowniaelektrycznaielektroniczna-2/2 JG 48

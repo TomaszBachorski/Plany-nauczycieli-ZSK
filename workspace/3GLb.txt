@@ -1,0 +1,18 @@
+0	7:10- 7:55	 	 	 	 	 
+1	8:00- 8:45	 	 	 	Językpolski PA B201	Religia RA B107
+2	8:50- 9:35	 	 	 	Językpolski PA B201	Językpolski PA B201
+3	9:50-10:35	Językangielski-1/2 SR B106
+Językangielski-2/2 EP B105	 	Historia WS B103	Językhiszpański-1/2 MP B108
+Językniemiecki-2/2 PI B101	Językpolski PA B201
+4	10:40-11:25	Przyroda RO B107	 	Historia WS B103	Matematyka MI B201	Językangielski-1/2 SR B106
+Językangielski-2/2 EP B105
+5	11:30-12:15	Językhiszpański-1/2 MP B106
+Językniemiecki-2/2 PI B101	 	Językangielski-1/2 SR B106
+Językangielski-2/2 EP B105	Historia WS B103	Językangielski-1/2 SR B106
+Językangielski-2/2 EP B103
+6	12:30-13:15	Językpolski PA B201	Matematyka MI B101	Językpolski PA B201	Językangielski-1/2 SR B106
+Językangielski-2/2 EP B105	Wychowaniefizyczne-1/2 ZI BSG
+7	13:20-14:05	Językpolski PA B201	Matematyka MI B101	Językpolski PA B201	Historia WS B103	Wychowaniefizyczne-1/2 ZI BSG
+8	14:10-14:55	3G_La/3G_Lb/Wychowaniefizyczne|37a6b_P-2/2 #3G_La/3G_Lb/Wychowaniefizyczne|37a6b BSG	Językpolski PA B201	Językangielski-1/2 SR B106
+Językangielski-2/2 EP B105	3G_La/3G_Lb/Wychowaniefizyczne|37a6b_P-2/2 #3G_La/3G_Lb/Wychowaniefizyczne|37a6b BSG	 
+9	15:00-15:45	3G_La/3G_Lb/Wychowaniefizyczne|37a6b_P-2/2 #3G_La/3G_Lb/Wychowaniefizyczne|37a6b BSG	Zajęciazwychowawcą PA B201	Wychowaniefizyczne-1/2 ZI BSG	 	 

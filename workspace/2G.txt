@@ -1,0 +1,32 @@
+0	7:10- 7:55	 	 	 	2A/2B/2C/2D/2E/2F/2G/Etyka|373e7_P-1/4 #2A/2B/2C/2D/2E/2F/2G/Etyka|373e7 22
+Religia-2/4 RA 17	Matematyka MI 17
+1	8:00- 8:45	 	 	 	2A/2B/2C/2D/2E/2F/2G/Etyka|373e7_P-1/4 #2A/2B/2C/2D/2E/2F/2G/Etyka|373e7 22
+Religia-2/4 RA 17	Podstawyprzedsiębiorczości MN 33
+2	8:50- 9:35	 	Fizyka-1/4 KS 27
+Geografia-2/4 NM 36	Sieciipodstacjetrakcyjne-1/4 ZF 48	Pracowniamontażuiutrzymaniasiecizasilających-1/4 ZF 48
+Odprawapociągównastacji-2/4 GR 22	Matematyka MI 36
+3	9:50-10:35	Wychowaniefizyczne MT SG2	 	Sieciipodstacjetrakcyjne-1/4 ZF 48
+Infrastrukturakolejowa-2/4 JJ 26	Pracowniamontażuiutrzymaniasiecizasilających-1/4 ZF 48
+Podstawyruchukolejowego-2/4 GR 22	Językpolski KL 28
+4	10:40-11:25	 	Wychowaniefizyczne MT SG2	Zajęciazwychowawcą MT 61	Pracowniamontażuiutrzymaniasiecizasilających-1/4 ZF 48
+Podstawyruchukolejowego-2/4 GR 22	Językniemiecki SK 22
+5	11:30-12:15	Językpolski KL 28	Wychowaniefizyczne MT SG2	Sieciipodstacjetrakcyjne-1/4 ZF 48
+Odprawapociągównastacji-2/4 GR 36	Organizacjatransportukolejowego-1/4 JJ 30
+Pracowniaruchukolejowego-2/4 GR 22	Językniemiecki SK 22
+6	12:30-13:15	Historia OK 38	 	Matematyka MI 26	Pracowniaelektrycznaielektroniczna-1/4 RP 46
+Pracowniaruchukolejowego-2/4 GR 22	Organizacjatransportukolejowego-1/4 JJ 57
+Pracowniaurządzeństerowaniaruchemkolejowym-2/4 SJ 61
+7	13:20-14:05	Elektrotechnikaielektronika-1/4 KZ 43
+Kolejowepojazdyszynowe-2/4 WO 44	Fizyka KS 27	Historia OK 38	Pracowniaelektrycznaielektroniczna-1/4 RP 46
+Pracowniaurządzeństerowaniaruchemkolejowym-2/4 SJ 17	Językpolski KL 28
+8	14:10-14:55	Chemia AJ 26	Informatyka-1/2 KP 40
+Informatyka-2/2 DS 58	Geografia NM 36	Pracowniaelektrycznaielektroniczna-1/4 RP 46
+Pracowniaurządzeństerowaniaruchemkolejowym-2/4 SJ 17	Elektrotechnikaielektronika-1/4 KZ 43
+Urządzeniasterowaniaruchemkolejowym-2/4 SJ 61
+9	15:00-15:45	 	2F/2G/Językangielski|37a53_P-1/4 #2F/2G/Językangielski|37a53 20
+2F/2G/Językangielski|37a54_P-2/4 #2F/2G/Językangielski|37a54 30
+2F/2G/Językangielski|37a4f_P-3/4 #2F/2G/Językangielski|37a4f 22
+1F/1G/Językangielski|318ed_P-4/4 #1F/1G/Językangielski|318ed 31	Biologia NI 37	2F/2G/Językangielski|37a53_P-1/4 #2F/2G/Językangielski|37a53 20
+2F/2G/Językangielski|37a54_P-2/4 #2F/2G/Językangielski|37a54 30
+2F/2G/Językangielski|37a4f_P-3/4 #2F/2G/Językangielski|37a4f 22
+1F/1G/Językangielski|318ed_P-4/4 #1F/1G/Językangielski|318ed 31	Urządzeniasterowaniaruchemkolejowym-2/4 SJ 61
