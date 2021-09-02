@@ -1,6 +1,6 @@
-0	7:10- 7:55	 	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23
+0	7:10- 7:55	 	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
 Religia-2/4 RA 26	 	Działalnośćgospodarcza NM 36	 
-1	8:00- 8:45	 	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23
+1	8:00- 8:45	Historiaispołeczeństwo MJ 38	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
 Religia-2/4 RA 26	 	Matematyka MR 16	 
 2	8:50- 9:35	Zajęciazwychowawcą JG 48	3G_A/3G_D/Językangielski|37a56_P-1/4 #3G_A/3G_D/Językangielski|37a56 32
 3G_A/3G_D/Językangielski|37a57_P-2/4 #3G_A/3G_D/Językangielski|37a57 30
@@ -19,7 +19,7 @@ Urządzeniaiinstalacjeelektroniczne-2/4 RG 34	Matematyka MR 16	Językpolski KL 2
 6	12:30-13:15	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/4 AS B104
 Urządzeniaiinstalacjeelektroniczne-2/4 RG 34	Językpolski KL 28	Językniemiecki-1/2 RM 21
 Językniemiecki-2/2 SK 22	Organizacjatransportukolejowego-1/4 JJ 30
-Systemymikroprocesorowe-2/4 RT 28	Historiaispołeczeństwo MJ B102
+Systemymikroprocesorowe-2/4 RT 28	 
 7	13:20-14:05	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/4 AS B104
 Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/4 RG 47	Językpolski KL 28	Pracowniamontażuiutrzymaniasiecizasilających-1/4 ZF 48
 Pracowniaeksploatacjiurządzeńelektronicznych-2/4 JG 47	Pracowniaelektrycznaielektroniczna-1/4 JG 48

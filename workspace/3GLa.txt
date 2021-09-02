@@ -1,19 +1,17 @@
-0	7:10- 7:55	 	 	 	 	 
-1	8:00- 8:45	 	Językangielski-1/2 AF B105
-Językangielski-2/2 SR B106	Grafikakomputerowa PK B205	Językhiszpański-1/2 MP B202
+0	7:10- 7:55	 	 	 	 	Fizyka KJ B108
+1	8:00- 8:45	 	 	Językangielski-2/2 SR 16	Językhiszpański-1/2 MP B202
 Językniemiecki-2/2 PI B101	Fizyka KJ B108
-2	8:50- 9:35	 	Językangielski-1/2 AF B105
-Językangielski-2/2 SR B106	Informatyka-1/2 GI B203
+2	8:50- 9:35	 	 	Informatyka-1/2 GI B203
 Informatyka-2/2 PK B204	Językhiszpański-1/2 MP B202
 Językniemiecki-2/2 PI B101	3G_La/3G_Lc/Religia|3750c_P #3G_La/3G_Lc/Religia|3750c B107
-3	9:50-10:35	 	Matematyka AM B202	Informatyka-1/2 GI B203
+3	9:50-10:35	Informatyka-1/2 GI B203
+Informatyka-2/2 PK B204	Matematyka AM B202	Informatyka-1/2 GI B203
 Informatyka-2/2 PK B204	Matematyka AM B202	Matematyka AM B202
-4	10:40-11:25	 	Matematyka AM B202	Językpolski SG B205	Językpolski SG B205	Matematyka AM B202
-5	11:30-12:15	Fizyka KJ B108	Językpolski SG B205	 	Językangielski-1/2 AF B105
+4	10:40-11:25	Grafikakomputerowa PK B202	Matematyka AM B202	Językpolski SG B205	Zajęciazwychowawcą WS B205	Matematyka AM B202
+5	11:30-12:15	Fizyka KJ B108	Językpolski SG B205	Językpolski SG B205	Językangielski-1/2 AF B105
 Językangielski-2/2 SR B106	Językpolski SG B205
-6	12:30-13:15	Fizyka KJ B108	Wychowaniefizyczne-1/2 ZI BSG	 	Matematyka AM B202	Historiaispołeczeństwo WS B103
-7	13:20-14:05	Informatyka-1/2 GI B203
-Informatyka-2/2 PK B204	Wychowaniefizyczne-1/2 ZI BSG	 	Matematyka AM B202	Zajęciazwychowawcą WS B103
-8	14:10-14:55	Wychowaniefizyczne-1/2 ZI BSG1
-3G_La/3G_Lb/Wychowaniefizyczne|37a6b_P-2/2 #3G_La/3G_Lb/Wychowaniefizyczne|37a6b BSG	 	 	3G_La/3G_Lb/Wychowaniefizyczne|37a6b_P-2/2 #3G_La/3G_Lb/Wychowaniefizyczne|37a6b BSG	Fizyka KJ B108
-9	15:00-15:45	3G_La/3G_Lb/Wychowaniefizyczne|37a6b_P-2/2 #3G_La/3G_Lb/Wychowaniefizyczne|37a6b BSG	 	 	 	 
+6	12:30-13:15	Fizyka KJ B108	Wychowaniefizyczne-1/2 ZI BSG	Językangielski-1/2 AF B105
+Językangielski-2/2 SR B106	Matematyka AM B202	Historiaispołeczeństwo WS B103
+7	13:20-14:05	 	Wychowaniefizyczne-1/2 ZI BSG	Językangielski-1/2 AF B105	Matematyka AM B202	3G_La/3G_Lb/Wychowaniefizyczne|37a6b_P-2/2 #3G_La/3G_Lb/Wychowaniefizyczne|37a6b BSG1
+8	14:10-14:55	 	 	Wychowaniefizyczne-1/2 ZI BSG	 	3G_La/3G_Lb/Wychowaniefizyczne|37a6b_P-2/2 #3G_La/3G_Lb/Wychowaniefizyczne|37a6b BSG1
+9	15:00-15:45	 	 	 	 	3G_La/3G_Lb/Wychowaniefizyczne|37a6b_P-2/2 #3G_La/3G_Lb/Wychowaniefizyczne|37a6b BSG1

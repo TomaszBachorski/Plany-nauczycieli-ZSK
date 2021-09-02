@@ -9,7 +9,7 @@ Pracowniapodstawprogramowania-2/2 GI 58	Matematyka MR 16	Bezpieczeństwoihigiena
 4	10:40-11:25	 	SystemykomputeroweD_DW SŁ 57	Plastyka TE 34	Religia-2/4 PS B108	 
 5	11:30-12:15	Wychowaniefizyczne-1/8 WM SG1
 1C/1D/Wychowaniefizyczne|37a6c_P-2/8 #1C/1D/Wychowaniefizyczne|37a6c SG2	Fizyka KS 27	Biologia NI 37	Chemia AJ B109	Informatyka-1/2 PK 41
-Informatyka-2/2 GI 40
+Informatyka-2/2 GI 58
 6	12:30-13:15	 	Językangielski-1/2 SL 31
 Językangielski-2/2 JO 32	Religia-2/4 PS 36	Podstawyprogramowania GI B108	Językangielski-1/2 SL 31
 Językangielski-2/2 JO 32

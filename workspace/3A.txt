@@ -1,6 +1,6 @@
 0	7:10- 7:55	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	 	 	 	 
 1	8:00- 8:45	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
-Układycyfrowe-2/6 KZ 22	 	Wychowaniefizyczne TS SG2	Pracowniaelektrycznaielektroniczna-1/6 JG 48
+Układycyfrowe-2/6 KZ 20	 	Wychowaniefizyczne TS SG2	Pracowniaelektrycznaielektroniczna-1/6 JG 48
 Urządzeniaiinstalacjeelektroniczne-2/6 RG 23
 2	8:50- 9:35	Historia OK 38	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
 Pomiaryelektryczneielektroniczne-2/6 JG 47	Matematyka KP 17	Wychowaniefizyczne TS SG2	Pracowniaelektrycznaielektroniczna-1/6 JG 48

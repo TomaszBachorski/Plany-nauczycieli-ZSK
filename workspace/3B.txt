@@ -33,3 +33,4 @@ Wychowaniefizyczne-2/2 ZI BSG	Siecikomputerowe RK 57	3P_A/3P_B/3P_D/Językangiel
 9	15:00-15:45	3P_A/3P_B/3P_C/Etyka|37a61_P-1/6 #3P_A/3P_B/3P_C/Etyka|37a61 22
 3P_B/3P_C/Religia|32de1_P-2/6 #3P_B/3P_C/Religia|32de1 16	Wychowaniefizyczne-1/2 MT BSG1
 Wychowaniefizyczne-2/2 ZI BSG	Siecikomputerowe RK 57	Pracowniasystemówoperacyjnych-2/2 SŁ 42	 
+10	15:50-16:35	 	Bukowska	 	 	 

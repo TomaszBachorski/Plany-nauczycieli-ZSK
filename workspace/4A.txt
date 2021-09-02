@@ -1,5 +1,5 @@
 0	7:10- 7:55	 	 	4A/4B/Religia|3336b_P #4A/4B/Religia|3336b 17	 	 
-1	8:00- 8:45	 	 	Językangielskizawodowy-1/2 EI 20	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
+1	8:00- 8:45	 	Językpolski AR 23	Językangielskizawodowy-1/2 EI 20	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
 Pracowniaeksploatacjiurządzeńelektronicznych-2/2 WR 47
 2	8:50- 9:35	Wychowaniefizyczne SW BSG	Matematyka MI 33	Historiaispołeczeństwo WL 32	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
 Pracowniaeksploatacjiurządzeńelektronicznych-2/2 WR 47
@@ -18,4 +18,4 @@ Pracowniasystemówmikroprocesorowych-2/2 RT 46
 Eksploatacjaurządzeńelektronicznych-2/2 WR 21	Językangielski-1/2 SL 31
 Językangielski-2/2 IS 30	Matematyka MI 26	Zajęciazwychowawcą KJ 27	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 AS B109
 9	15:00-15:45	Eksploatacjataboruszynowego-1/2 WO 44
-Eksploatacjaurządzeńelektronicznych-2/2 WR 21	Językpolski AR 23	 	 	 
+Eksploatacjaurządzeńelektronicznych-2/2 WR 21	 	 	 	 

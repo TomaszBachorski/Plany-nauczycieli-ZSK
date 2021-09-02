@@ -1,6 +1,6 @@
-0	7:10- 7:55	Informatyka-2/2 AL 51	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23
+0	7:10- 7:55	Informatyka-2/2 AL 51	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
 3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 27	 	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	 
-1	8:00- 8:45	Witrynyinternetowe AW 57	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23
+1	8:00- 8:45	Witrynyinternetowe AW 57	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
 3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 27	 	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	Historiaispołeczeństwo MJ 21
 2	8:50- 9:35	Zajęciazwychowawcą DS 37	Językniemiecki-1/2 RM 21
 Językniemiecki-2/2 TE 34	Wychowaniefizyczne-1/2 KM SG4

@@ -1,9 +1,9 @@
-0	7:10- 7:55	Religia-2/4 PS 33	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23	Wychowaniefizyczne-1/2 TS BSG1
+0	7:10- 7:55	Religia-2/4 PS 33	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22	Wychowaniefizyczne-1/2 TS BSG1
 Wychowaniefizyczne-2/2 WZ BSG	Pracowniainstalacjiautomatykiprzemysłowej-1/2 RT 47
 Pracowniaurządzeńautomatykiprzemysłowej-2/2 FN 46	Pracowniaurządzeńautomatykiprzemysłowej-1/2 FN 46
 Pracowniatechnologiiipomiarówwautomatyce-2/2 RT 44
 1	8:00- 8:45	Informatyka-1/2 ŁG 56
-Informatyka-2/2 AL 51	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23	Wychowaniefizyczne-1/2 TS BSG1
+Informatyka-2/2 AL 51	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22	Wychowaniefizyczne-1/2 TS BSG1
 Wychowaniefizyczne-2/2 WZ BSG	Pracowniainstalacjiautomatykiprzemysłowej-1/2 RT 47
 Pracowniaurządzeńautomatykiprzemysłowej-2/2 FN 46	Pracowniaurządzeńautomatykiprzemysłowej-1/2 FN 46
 Pracowniatechnologiiipomiarówwautomatyce-2/2 RT 44

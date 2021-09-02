@@ -1,13 +1,13 @@
-0	7:10- 7:55	 	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23
+0	7:10- 7:55	 	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
 3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 27	 	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	 
 1	8:00- 8:45	Pracowniasiecikomputerowych-1/2 RK 42
-Pracowniasiecikomputerowych-2/2 KZ 43	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 23
+Pracowniasiecikomputerowych-2/2 KZ 43	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
 3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 27	Informatyka-1/2 ŁG 50
 Informatyka-2/2 AL 56	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	 
 2	8:50- 9:35	Pracowniasiecikomputerowych-1/2 RK 42
 Pracowniasiecikomputerowych-2/2 KZ 43	Siecikomputerowe RK 57	Informatyka-1/2 ŁG 50
 Informatyka-2/2 AL 56	Systemyoperacyjne DR 28	 
-3	9:50-10:35	 	Działalnośćgospodarcza NM 36	 	Witrynyinternetowe AW 32	Historiaispołeczeństwo MJ 21
+3	9:50-10:35	 	Działalnośćgospodarcza NM 36	 	Witrynyinternetowe AW 57	Historiaispołeczeństwo MJ 21
 4	10:40-11:25	Wychowaniefizyczne-1/2 KM SG3
 Wychowaniefizyczne-2/2 SW BSG	Językpolski AB 23	Wychowaniefizyczne-1/2 KM SG1
 Wychowaniefizyczne-2/2 SW SG2	Programowanie WK 37	3G_B/3G_C/Językangielski|37a5d_P-1/4 #3G_B/3G_C/Językangielski|37a5d 30

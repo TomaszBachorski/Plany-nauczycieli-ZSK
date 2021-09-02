@@ -1,18 +1,18 @@
-0	7:10- 7:55	Językangielski-1/2 AF B105
-Językangielski-2/2 EP B106	 	 	Podstawyprzedsiębiorczości MN B107	 
-1	8:00- 8:45	Językpolski SG B205	 	Językangielski-1/2 AF B105
-Językangielski-2/2 EP B103	Wychowaniefizyczne SW BSG1	 
+0	7:10- 7:55	 	 	 	Podstawyprzedsiębiorczości MN B107	 
+1	8:00- 8:45	 	 	 	Wychowaniefizyczne SW BSG1	 
 2	8:50- 9:35	Fizyka KJ B108	 	Językangielski-1/2 AF B105
-Językangielski-2/2 EP B103	Wychowaniefizyczne SW BSG1	 
-3	9:50-10:35	Matematyka GI B102	 	Językpolski SG B205	Zajęciazwychowawcą SW B201	Językpolski SG B205
+Językangielski-2/2 EP B103	Wychowaniefizyczne SW BSG1	Językpolski SG B205
+3	9:50-10:35	Językangielski-1/2 AF B106
+Językangielski-2/2 EP B105	 	Językpolski SG B205	Zajęciazwychowawcą SW B201	Językpolski SG B205
 4	10:40-11:25	Matematyka GI B102	Historia WS B103	Informatyka-1/2 GI B203
-Informatyka-2/2 PK B204	Godzinydodyspozycjidyrektora AM B202	Historia WS B103
+Informatyka-2/2 PK B204	Godzinydodyspozycjidyrektora AM B202	Językangielski-1/2 AF B105
+Językangielski-2/2 EP B106
 5	11:30-12:15	Informatyka-1/2 GI B203
 Informatyka-2/2 PK B204	Religia RA B101	Grafikakomputerowa PK B202	Językhiszpański-1/2 MP B108
 Językniemiecki-2/2 PI B101	Fizyka KJ B108
 6	12:30-13:15	Informatyka-1/2 GI B203
 Informatyka-2/2 PK B204	Religia RA B103	Matematyka GI B202	Chemia AJ B109	Wychowaniefizyczne SW BSG1
 7	13:20-14:05	Językhiszpański-1/2 MP B106
-Językniemiecki-2/2 PI B101	Językpolski SG B205	Matematyka GI B202	 	Fizyka KJ B108
-8	14:10-14:55	Fizyka KJ B108	Matematyka GI B202	Geografia WL B107	 	 
-9	15:00-15:45	Biologia RO B107	 	 	 	 
+Językniemiecki-2/2 PI B101	Językpolski SG B205	Matematyka GI B202	Historia WS SG3	Fizyka KJ B108
+8	14:10-14:55	Fizyka KJ B108	Matematyka GI B202	Geografia WL B102	 	 
+9	15:00-15:45	Biologia RO B107	Matematyka GI B202	 	 	 

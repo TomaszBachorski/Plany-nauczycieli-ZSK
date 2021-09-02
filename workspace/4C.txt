@@ -1,4 +1,4 @@
-0	7:10- 7:55	 	JęzykniemieckiDSDIPro-1/2 RM 21	4C/4D/4E/Religia|3336d_P-1/4 #4C/4D/4E/Religia|3336d 28	 	4B/4C/4D/Etyka|3336c_P-1/4 #4B/4C/4D/Etyka|3336c 22
+0	7:10- 7:55	 	JęzykniemieckiDSDIPro-1/2 RM 21	4C/4D/4E/Religia|3336d_P-1/4 #4C/4D/4E/Religia|3336d 28	Pracowniaprogramowania-1/2 MS 51	4B/4C/4D/Etyka|3336c_P-1/4 #4B/4C/4D/Etyka|3336c 22
 1	8:00- 8:45	 	JęzykniemieckiDSDIPro-1/2 RM 21	JęzykniemieckiDSDIPro-1/2 RM 21
 JęzykniemieckiDSDIPro-2/2 TE 34	Pracowniabazdanych-1/2 HK 40
 Pracowniabazdanych-2/2 JR 41	 
@@ -12,7 +12,7 @@ Pracowniabazdanych-2/2 JR 41	Bazydanych JR 57
 3	9:50-10:35	4B/4C/Językangielski|37a64_P-1/4 #4B/4C/Językangielski|37a64 20
 4B/4C/Językangielski|37a67_P-2/4 #4B/4C/Językangielski|37a67 30
 4B/4C/Językangielski|37a66_P-3/4 #4B/4C/Językangielski|37a66 31
-4B/4C/Językangielski|37a65_P-4/4 #4B/4C/Językangielski|37a65 22	Pracowniaprogramowania-1/2 MS 50
+4B/4C/Językangielski|37a65_P-4/4 #4B/4C/Językangielski|37a65 22	Informatyka-1/2 AL 50
 Pracowniawitryninternetowych-2/2 GL 51	Matematyka AG 18	Pracowniabazdanych-1/2 HK 40
 Pracowniabazdanych-2/2 JR 41	Informatyka-1/2 AL 51
 Informatyka-2/2 ŁG 50
@@ -27,8 +27,7 @@ Pracowniaprogramowania-2/2 MS 50	 	Wychowaniefizyczne-1/2 KM SG3
 Wychowaniefizyczne-2/2 WZ SG4	Matematyka AG 18
 6	12:30-13:15	Językpolski KL 28	Matematyka AG 18	Wychowaniefizyczne-1/2 KM SG1
 Wychowaniefizyczne-2/2 WZ SG2	 	Zajęciazwychowawcą TE 34
-7	13:20-14:05	 	Matematyka AG 18	Wychowaniefizyczne-1/2 KM SG1
-Wychowaniefizyczne-2/2 WZ SG2	Informatyka-1/2 AL 51
-Informatyka-2/2 ŁG 50	Historiaispołeczeństwo OK 38
+7	13:20-14:05	Informatyka-2/2 ŁG 50	Matematyka AG 18	Wychowaniefizyczne-1/2 KM SG1
+Wychowaniefizyczne-2/2 WZ SG2	Witrynyinternetowe PK SwF	Historiaispołeczeństwo OK 38
 8	14:10-14:55	 	JęzykniemieckiDSDIPro-2/2 TE 34	 	Matematyka AG 18	Matematyka AG 18
-9	15:00-15:45	 	JęzykniemieckiDSDIPro-2/2 TE 34	Witrynyinternetowe PK 38	Językpolski KL 28	Witrynyinternetowe GL 26
+9	15:00-15:45	 	JęzykniemieckiDSDIPro-2/2 TE 34	 	Językpolski KL 28	Witrynyinternetowe GL 26

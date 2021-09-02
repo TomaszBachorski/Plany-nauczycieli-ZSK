@@ -6,7 +6,7 @@
 2	8:50- 9:35	Historia WS 16	 	Religia-2/4 RA 28	Chemia MW 26	Programowanie AL 31
 3	9:50-10:35	Matematyka AG 18	Wychowaniefizyczne-1/4 WZ BSG
 2A/2B/Wychowaniefizyczne|37a43_P-2/4 #2A/2B/Wychowaniefizyczne|37a43 SG4	Pracowniasiecikomputerowych-1/2 RK 42
-Pracowniasiecikomputerowych-2/2 KZ 43	Siecikomputerowe RK 57	Matematyka AG 18
+Pracowniasiecikomputerowych-2/2 KZ 43	Siecikomputerowe RK 33	Matematyka AG 18
 4	10:40-11:25	Systemyoperacyjne DR 32	 	Pracowniasiecikomputerowych-1/2 RK 42
 Pracowniasiecikomputerowych-2/2 KZ 43	Informatyka-1/2 KP 40
 Informatyka-2/2 DS 58	Systemyoperacyjne DR 33
@@ -21,7 +21,7 @@ Pracowniasystemówoperacyjnych-2/2 MS 51	Geografia NM 36	J. niem. JT 20 / J. his
 1A/1B/Językangielski|3155f_P-3/4 #1A/1B/Językangielski|3155f 22
 2A/2B/Językangielski|37a42_P-4/4 #2A/2B/Językangielski|37a42 30	Siecikomputerowe RK 57	Religia-2/4 RA 27	Wychowaniefizyczne-1/4 WZ SG1
 2A/2B/Wychowaniefizyczne|37a43_P-2/4 #2A/2B/Wychowaniefizyczne|37a43 SG2	Biologia NI 37
-8	14:10-14:55	Witrynyiaplikacjeinternetowe AW 34	1C/1A/1B/JęzykniemieckiDSDIPro|308d8_P #1C/1A/1B/JęzykniemieckiDSDIPro|308d8 21	Pracowniaurządzeńtechnikikomputerowej-1/2 SŁ 61
+8	14:10-14:55	Witrynyiaplikacjeinternetowe AW 57	1C/1A/1B/JęzykniemieckiDSDIPro|308d8_P #1C/1A/1B/JęzykniemieckiDSDIPro|308d8 21	Pracowniaurządzeńtechnikikomputerowej-1/2 SŁ 61
 Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	 	Językpolski AR 23
 9	15:00-15:45	 	1C/1A/1B/JęzykniemieckiDSDIPro|308d8_P #1C/1A/1B/JęzykniemieckiDSDIPro|308d8 21	Pracowniaurządzeńtechnikikomputerowej-1/2 SŁ 61
 Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Fizyka KJ 27	Językpolski AR 23

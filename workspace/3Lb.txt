@@ -1,21 +1,23 @@
 0	7:10- 7:55	 	 	 	 	 
 1	8:00- 8:45	Chemia-1/2 MW B109	Biologia-1/2 RO B107
-Językpolski-2/2 SG B205	Językangielski-1/2 SR B106	Historia-2/2 WS B103	Językangielski-2/2 SR B106
-2	8:50- 9:35	Chemia-1/2 MW B109
-Językpolski-2/2 SG B205	Matematyka AM B202	Językangielski-1/2 SR B106	Historia-2/2 WS B103	Językangielski-2/2 SR B106
+Językpolski-2/2 SG B205	 	Językangielski-1/2 SR B106
+Historia-2/2 WS B103	Językangielski-2/2 SR B106
+2	8:50- 9:35	Chemia-1/2 MW B109	Językangielski-1/2 SR B106
+Wychowaniefizyczne-2/2 WZ BSG	Językpolski-2/2 SG B205	Językangielski-1/2 SR B106
+Historia-2/2 WS B103	Językangielski-2/2 SR B106
 3	9:50-10:35	Językhiszpański-1/2 MP B107
 Językniemiecki-2/2 PI B101	Językpolski SG B205	Językangielski-1/2 SR B106
 Wychowaniefizyczne-2/2 WZ BSG	Historia WS B103	Historia WS B103
 4	10:40-11:25	Językhiszpański-1/2 MP B103
 Językniemiecki-2/2 PI B101	Wychowaniefizyczne-1/2 ZI BSG
-Językangielski-2/2 SR B106	Zajęciazwychowawcą SR B109	Chemia AJ B109	Podstawyprzedsiębiorczości MN B101
+Językangielski-2/2 SR B106	Językangielski-1/2 SR B106
+Wychowaniefizyczne-2/2 WZ BSG	Chemia AJ B109	Podstawyprzedsiębiorczości MN B101
 5	11:30-12:15	Biologia RO B107	Wychowaniefizyczne-1/2 ZI BSG
 Językangielski-2/2 SR B106	Edukacjazdrowotna-1/2 SB B201
 Informatyka-2/2 GI B203	Matematyka AM B202	Godzinydodyspozycjidyrektora AM B202
 6	12:30-13:15	Biologia-1/2 RO B107
-Psychologiawkomunikacjiinterpersonalnej-2/2 SB B103	Matematyka AM B202	Językpolski SG B205	Językpolski SG B205	Fizyka KJ B108
+Psychologiawkomunikacjiinterpersonalnej-2/2 SB B103	Matematyka AM B202	Językpolski SG B205	Językpolski SG B205	Matematyka AM B202
 7	13:20-14:05	Religia RA B102	Informatyka-1/2 GI B203	Wychowaniefizyczne-1/2 ZI BSG
-Językangielski-2/2 SR B106	Językangielski-1/2 SR B106	Językangielski-1/2 SR B106
-Wychowaniefizyczne-2/2 WZ BSG1
-8	14:10-14:55	Religia RA B102	 	Językpolski SG B205	 	Wychowaniefizyczne-2/2 WZ BSG
-9	15:00-15:45	Fizyka KJ B108	 	Geografia WL B107	 	 
+Językangielski-2/2 SR B106	 	Zajęciazwychowawcą SR B103
+8	14:10-14:55	Religia RA B102	 	Językpolski SG B205	 	Fizyka KJ B108
+9	15:00-15:45	Fizyka KJ B108	 	Geografia WL B102	 	 
