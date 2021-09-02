@@ -23,6 +23,6 @@ Pracowniabazdanych-2/2 JR 41	Chemia MW 26
 7	13:20-14:05	Językpolski AR 23	Religia-2/6 PS 23	Językniemiecki-1/2 PI 44
 Językniemiecki-2/2 TE 34	Informatyka-1/2 KP 40
 Pracowniabazdanych-2/2 JR 41	Systemybazdanych JR 44
-8	14:10-14:55	Podstawyprzedsiębiorczości MN 33	Religia-2/6 PS 23	Wychowaniefizyczne-1/4 WZ SG2	WF 14:40 - 16:10	Zajęciazwychowawcą MR 16
+8	14:10-14:55	Podstawyprzedsiębiorczości MN 33	Religia-2/6 PS 23	Wychowaniefizyczne-1/4 WZ SG2		Zajęciazwychowawcą MR 16
 9	15:00-15:45	Geografia NM 18	 	Wychowaniefizyczne-1/4 WZ SG2	2D/2E/Wychowaniefizyczne|37f75_P-2/4 #2D/2E/Wychowaniefizyczne|37f75 SG1	 
-10	15:50-16:35	 	 	WF 14:40 - 16:10	2D/2E/Wychowaniefizyczne|37f75_P-2/4 #2D/2E/Wychowaniefizyczne|37f75 SG1	 
+10	15:50-16:35	 	 		2D/2E/Wychowaniefizyczne|37f75_P-2/4 #2D/2E/Wychowaniefizyczne|37f75 SG1	 

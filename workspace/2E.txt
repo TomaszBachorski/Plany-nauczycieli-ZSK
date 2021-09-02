@@ -21,7 +21,7 @@ Pracowniaaplikacjiinternetowych-2/2 GL 56	Językpolski PA 57	Systemybazdanych JR
 7	13:20-14:05	 	Pracowniaaplikacjiinternetowych-1/2 GL 56
 Pracowniabazdanych-2/2 JR 41	Pracowniabazdanych-1/2 JR 41
 Pracowniaaplikacjiinternetowych-2/2 GL 56	2C/2E/Religia|32def_P-2/4 #2C/2E/Religia|32def 32	Językpolski PA 36
-8	14:10-14:55	 	Matematyka MR 16	Tworzenieaplikacjiinternetowych GL 38	WF 14:40 - 16:10	Biologia NI 37
+8	14:10-14:55	 	Matematyka MR 16	Tworzenieaplikacjiinternetowych GL 38		Biologia NI 37
 9	15:00-15:45	 	Pracowniaprogramowaniaobiektowego-1/2 MS 43	Pracowniaprogramowaniaobiektowego-2/2 MS 43	Wychowaniefizyczne-1/4 SW BSG
 2D/2E/Wychowaniefizyczne|37f75_P-2/4 #2D/2E/Wychowaniefizyczne|37f75 SG1	Systemybazdanych JR 37
 10	15:50-16:35	 	 	 	Wychowaniefizyczne-1/4 SW BSG

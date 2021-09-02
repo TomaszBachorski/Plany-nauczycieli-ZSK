@@ -51,7 +51,7 @@ for (let a = 0; a < fs.readdirSync("./workspace/").length; a++) {
                 table[i][j] = ["Język angielski", "Ewa, Sebastian, Iwona, Sandra", [20, 22, 30, 31]];
             } else if (table[i][j].length > 10 && table[i][j][0].includes("angi")) {
                 table[i][j] = ["Język angielski", "Ewa, Sebastian, Iwona, Sandra", [16, 20, 22, 30, 31, 32]];
-            } else if (table[i][j][0].includes("hiszp") && table[i][j].length>5) {
+            } else if (table[i][j][0].includes("hiszp") && table[i][j].length > 5) {
                 table[i][j] = ["Języki obce", "??", [16, 20, 21]];
             } else if ((table[i][j][0].includes("rosyj"))) {
                 table[i][j] = ["Języki obce", "??", [20, 38, 31, 27, 22, 34]];
@@ -62,6 +62,11 @@ for (let a = 0; a < fs.readdirSync("./workspace/").length; a++) {
                 } else {
                     table[i][j] = [table[i][j][0] + " " + table[i][j][1], table[i][j][2], table[i][j][3]];
                 }
+            } else if (table[i][j][0].includes("Technologieipomiarywautomatyce")) {
+                table[i][j] = [table[i][j][0], table[i][j][1], table[i][j][2].slice(0, 2), table[i][j][2].slice(2), table[i][j][3], table[i][j][4]];
+            }
+            if (table[i][j][2] === "Sw") {
+                table[i][j][2] = "SwF";
             }
         }
     }
@@ -73,7 +78,7 @@ for (let a = 0; a < fs.readdirSync("./workspace/").length; a++) {
             for (let k = 0; k < table[i][j].length / 3; k++) {
                 let tName = table[i][j][1 + z];
                 if (table[i][j][1 + z] && table[i][j][1 + z].includes("Wych")) tName = table[i][j][1];
-                if (table[i][j][1 + z] && table[i][j][1 + z].includes("Etyka")) tName = "Starosta";
+                if (table[i][j][1 + z] && table[i][j][1 + z].includes("Etyka")) tName = "SI";
                 if (table[i][j][1 + z] && table[i][j][1 + z].includes("Religia") && table[i][j][1 + z].includes("4D")) tName = "PS";
                 if (table[i][j][1 + z] && table[i][j][1 + z].includes("niemie")) tName = "??";
                 if (table[i][j][1 + z] && table[i][j][1 + z].includes("DSDIPro")) tName = "??";
@@ -105,8 +110,8 @@ for (let a = 0; a < fs.readdirSync("./workspace/").length; a++) {
                 if (!classJSON[j].lessonName) {
                     page += "<th></th>"
                 } else {
-                    if ((classJSON[j].lessonName.includes("1/2") && classJSON[j + 1] && classJSON[j + 1].lessonName.includes("2/2")) || (classJSON[j].lessonName.includes("1/4") && classJSON[j + 1].lessonName.includes("2/4"))|| (classJSON[j].lessonName.includes("1/8") && classJSON[j + 1].lessonName.includes("2/8"))) {
-                        page += `<th>${classJSON[j].lessonName} <a href="http://www.ithomash.xyz/teacher/${classJSON[j].teacher}">${classJSON[j].teacher}</a> <a href="http://www.ithomash.xyz/room/${classJSON[j].room}">${classJSON[j].room}</a><br>${classJSON[j + 1].lessonName} <a href="http://www.ithomash.xyz/teacher/${classJSON[j+1].teacher}">${classJSON[j+1].teacher}</a> <a href="http://www.ithomash.xyz/room/${classJSON[j+1].room}">${classJSON[j+1].room}</a></th>`;
+                    if ((classJSON[j].lessonName.includes("1/2") && classJSON[j + 1] && classJSON[j + 1].lessonName.includes("2/2")) || (classJSON[j].lessonName.includes("1/4") && classJSON[j + 1].lessonName.includes("2/4")) || (classJSON[j].lessonName.includes("1/8") && classJSON[j + 1].lessonName.includes("2/8"))) {
+                        page += `<th>${classJSON[j].lessonName} <a href="http://www.ithomash.xyz/teacher/${classJSON[j].teacher}">${classJSON[j].teacher}</a> <a href="http://www.ithomash.xyz/room/${classJSON[j].room}">${classJSON[j].room}</a><br>${classJSON[j + 1].lessonName} <a href="http://www.ithomash.xyz/teacher/${classJSON[j + 1].teacher}">${classJSON[j + 1].teacher}</a> <a href="http://www.ithomash.xyz/room/${classJSON[j + 1].room}">${classJSON[j + 1].room}</a></th>`;
                         j += 1;
                     } else {
                         page += `<th>${classJSON[j].lessonName} <a href="http://www.ithomash.xyz/teacher/${classJSON[j].teacher}">${classJSON[j].teacher}</a> <a href="http://www.ithomash.xyz/room/${classJSON[j].room}">${classJSON[j].room}</a></th>`;
