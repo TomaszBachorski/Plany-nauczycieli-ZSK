@@ -1,12 +1,10 @@
-0	7:10- 7:55	 	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
-3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 27	 	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	 
+0	7:10- 7:55	3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 33	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22	3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 28	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	 
 1	8:00- 8:45	Pracowniasiecikomputerowych-1/2 RK 42
-Pracowniasiecikomputerowych-2/2 KZ 43	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
-3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 27	Informatyka-1/2 ŁG 50
+Pracowniasiecikomputerowych-2/2 KZ 43	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22	Informatyka-1/2 ŁG 50
 Informatyka-2/2 AL 56	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	 
 2	8:50- 9:35	Pracowniasiecikomputerowych-1/2 RK 42
 Pracowniasiecikomputerowych-2/2 KZ 43	Siecikomputerowe RK 57	Informatyka-1/2 ŁG 50
-Informatyka-2/2 AL 56	Systemyoperacyjne DR 28	 
+Informatyka-2/2 AL 56	Systemyoperacyjne DR 27	 
 3	9:50-10:35	 	Działalnośćgospodarcza NM 36	 	Witrynyinternetowe AW 57	Historiaispołeczeństwo MJ 21
 4	10:40-11:25	Wychowaniefizyczne-1/2 KM SG3
 Wychowaniefizyczne-2/2 SW BSG	Językpolski AB 23	Wychowaniefizyczne-1/2 KM SG1
@@ -22,7 +20,7 @@ Wychowaniefizyczne-2/2 SW SG2	Językpolski AB 23	3G_B/3G_C/Językangielski|37a5d
 6	12:30-13:15	Bazydanych JR 37	Matematyka MR 16	 	Matematyka MR 16	Językhiszpański-1/4 MP SwF
 Językniemiecki-2/4 PI 20
 7	13:20-14:05	Pracowniaurządzeńtechnikikomputerowej-1/2 SŁ 61
-Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Matematyka MR 16	Kompetencjespołeczne EG 33	Zajęciazwychowawcą DR 44	Pracowniasystemówoperacyjnych-1/2 RK 42
+Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Matematyka MR 16	Kompetencjespołeczne EG 33	Zajęciazwychowawcą DR 42	Pracowniasystemówoperacyjnych-1/2 RK 42
 Pracowniasystemówoperacyjnych-2/2 SŁ 56
 8	14:10-14:55	Pracowniaurządzeńtechnikikomputerowej-1/2 SŁ 61
 Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	 	Pracowniabazdanych-1/2 JR 41

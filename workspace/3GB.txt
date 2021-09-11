@@ -1,15 +1,13 @@
-0	7:10- 7:55	Informatyka-2/2 AL 51	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
-3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 27	 	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	 
-1	8:00- 8:45	Witrynyinternetowe AW 57	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22
-3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 27	 	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	Historiaispołeczeństwo MJ 21
+0	7:10- 7:55	3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 33	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22	3G_B/3G_C/Religia|32deb_P-2/4 #3G_B/3G_C/Religia|32deb 28	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	Informatyka-2/2 AL 51
+1	8:00- 8:45	Matematyka DS 37	3G_A/3G_B/3G_C/3G_D/Etyka|37a58_P-1/4 #3G_A/3G_B/3G_C/3G_D/Etyka|37a58 22	 	3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e_P #3G_B/3G_C/JęzykniemieckiDSDIPro|37a5e 34	Historiaispołeczeństwo MJ 21
 2	8:50- 9:35	Zajęciazwychowawcą DS 37	Językniemiecki-1/2 RM 21
-Językniemiecki-2/2 TE 34	Wychowaniefizyczne-1/2 KM SG4
+Językniemiecki-2/2 TE 34	Wychowaniefizyczne-1/2 KM SG1
 Wychowaniefizyczne-2/2 WM SG3	 	Matematyka DS 17
 3	9:50-10:35	Pracowniasiecikomputerowych-1/2 RK 42
-Pracowniasystemówoperacyjnych-2/2 SŁ 50	Językniemiecki-1/2 RM 21
+Pracowniasystemówoperacyjnych-2/2 SŁ 43	Językniemiecki-1/2 RM 21
 Językniemiecki-2/2 TE 34	 	Językpolski AB 23	Matematyka DS 17
 4	10:40-11:25	Pracowniasiecikomputerowych-1/2 RK 42
-Pracowniasystemówoperacyjnych-2/2 SŁ 50	Bazydanych JR 37	Informatyka-1/2 ŁG 56
+Pracowniasystemówoperacyjnych-2/2 SŁ 43	Bazydanych JR 37	Informatyka-1/2 ŁG 56
 Informatyka-2/2 AL 51	Językpolski AB 23	3G_B/3G_C/Językangielski|37a5d_P-1/4 #3G_B/3G_C/Językangielski|37a5d 30
 3G_B/3G_C/Językangielski|37a59_P-2/4 #3G_B/3G_C/Językangielski|37a59 20
 3G_B/3G_C/Językangielski|37a5a_P-3/4 #3G_B/3G_C/Językangielski|37a5a 31
@@ -20,7 +18,7 @@ Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Siecikomputerowe RK 57	Systemy
 3G_B/3G_C/Językangielski|37a5a_P-3/4 #3G_B/3G_C/Językangielski|37a5a 31
 3G_B/3G_C/Językangielski|37a5b_P-4/4 #3G_B/3G_C/Językangielski|37a5b 32
 6	12:30-13:15	Pracowniaurządzeńtechnikikomputerowej-1/2 SŁ 61
-Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Językpolski AB 23	Matematyka DS 17	Pracowniawitryninternetowych-1/2 AW 56
+Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Językpolski AB 23	Witrynyinternetowe AW 57	Pracowniawitryninternetowych-1/2 AW 56
 Pracowniaprogramowania-2/2 WK 58	Kompetencjespołeczne EG 28
 7	13:20-14:05	Działalnośćgospodarcza NM 36	Informatyka-1/2 ŁG 50
 Pracowniasiecikomputerowych-2/2 KZ 42	Pracowniawitryninternetowych-2/2 AW 58	Pracowniaprogramowania-1/2 WK 58

@@ -1,14 +1,14 @@
-0	7:10- 7:55	 	 	4A/4B/Religia|3336b_P #4A/4B/Religia|3336b 17	 	 
-1	8:00- 8:45	 	Językpolski AR 23	Językangielskizawodowy-1/2 EI 20	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
+0	7:10- 7:55	 	 	4A/4B/Religia|3336b_P #4A/4B/Religia|3336b 26	 	 
+1	8:00- 8:45	 	 	Językangielskizawodowy-1/2 EI 20	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
 Pracowniaeksploatacjiurządzeńelektronicznych-2/2 WR 47
-2	8:50- 9:35	Wychowaniefizyczne SW BSG	Matematyka MI 33	Historiaispołeczeństwo WL 32	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
+2	8:50- 9:35	Zajęciazwychowawcą KJ B108	Matematyka MI 33	Historiaispołeczeństwo WL 44	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
 Pracowniaeksploatacjiurządzeńelektronicznych-2/2 WR 47
-3	9:50-10:35	Fizyka KJ B108	 	Językpolski AR 23	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
+3	9:50-10:35	Fizyka KJ B108	Matematyka MI 33	Językpolski AR 23	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
 Eksploatacjaurządzeńelektronicznych-2/2 WR 47
-4	10:40-11:25	Fizyka KJ B108	Wychowaniefizyczne SW SG1	Językpolski AR 23	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
+4	10:40-11:25	Fizyka KJ B108	 	Językpolski AR 23	 	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 KG @
 Pracowniaurządzeńautomatyki-2/2 RT 46
-5	11:30-12:15	Matematyka MI B202	Wychowaniefizyczne SW SG1	Historiaispołeczeństwo WL 34	Językangielskizawodowy-2/2 EI 20	Pracowniaurządzeńautomatyki-2/2 RT 46
-6	12:30-13:15	Matematyka MI B202	 	Fizyka KJ 27	Fizyka KJ 27	Eksploatacjataboruszynowego-1/2 AS B104
+5	11:30-12:15	Wychowaniefizyczne SW BSG	Wychowaniefizyczne SW SG3	Historiaispołeczeństwo WL 34	Językangielskizawodowy-2/2 EI 20	Pracowniaurządzeńautomatyki-2/2 RT 46
+6	12:30-13:15	Wychowaniefizyczne SW BSG	 	Fizyka KJ 27	Językpolski AR 23	Eksploatacjataboruszynowego-1/2 AS B104
 Pracowniasystemówmikroprocesorowych-2/2 RT 46
 7	13:20-14:05	 	Językangielski-1/2 SL 31
 Językangielski-2/2 IS 30	Matematyka MI 26	Językangielski-1/2 SL 31
@@ -16,6 +16,6 @@ Językangielski-2/2 IS 30	Eksploatacjataboruszynowego-1/2 AS B104
 Pracowniasystemówmikroprocesorowych-2/2 RT 46
 8	14:10-14:55	Eksploatacjataboruszynowego-1/2 WO 44
 Eksploatacjaurządzeńelektronicznych-2/2 WR 21	Językangielski-1/2 SL 31
-Językangielski-2/2 IS 30	Matematyka MI 26	Zajęciazwychowawcą KJ 27	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 AS B109
+Językangielski-2/2 IS 30	Matematyka MI 26	Matematyka MI 27	Pracowniaeksploatacjiśrodkówtransportuszynowego-1/2 AS B109
 9	15:00-15:45	Eksploatacjataboruszynowego-1/2 WO 44
-Eksploatacjaurządzeńelektronicznych-2/2 WR 21	 	 	 	 
+Eksploatacjaurządzeńelektronicznych-2/2 WR 21	 	Fizyka KJ 27	 	 

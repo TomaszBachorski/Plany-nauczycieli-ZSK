@@ -1,38 +1,29 @@
-0	7:10- 7:55	 	 	 	 	Religia-2/8 PS 32
-1	8:00- 8:45	 	Zajęciapraktyczne-1/2 CKP1 @
-Zajęciapraktyczne-2/2 CKP2 @	Zajęciazwychowawcą NI 37	Edukacjadlabezpieczeństwa MN B107	Rysunektechniczny-1/2 JJ 37
+0	7:10- 7:55	 	 	Historia OK 38	 	 
+1	8:00- 8:45	Matematyka KP 17	Zajęciapraktyczne-1/2 CKP1 @
+Zajęciapraktyczne-2/2 CKP2 @	Zajęciazwychowawcą NI 16	Edukacjadlabezpieczeństwa MN B107	Rysunektechniczny-1/2 JJ 37
 Informatyka-2/2 PK 40
 2	8:50- 9:35	 	Zajęciapraktyczne-1/2 CKP1 @
-Zajęciapraktyczne-2/2 CKP2 @	Historia OK 38	Bezpieczeństwoihigienapracy MN B107	Informatyka-1/2 PK 41
+Zajęciapraktyczne-2/2 CKP2 @	Religia-2/8 PS 28	Bezpieczeństwoihigienapracy MN B107	Informatyka-1/2 PK 41
 Rysunektechniczny-2/2 JJ 37
-3	9:50-10:35	Wychowaniefizyczne-1/8 WZ SG4
-1F/1E/Wychowaniefizyczne|36bd0_P-2/8 #1F/1E/Wychowaniefizyczne|36bd0 SG1	Zajęciapraktyczne-1/2 CKP1 @
-Zajęciapraktyczne-2/2 CKP2 @	Religia-2/8 PS 61	Językpolski AR B102	 
+3	9:50-10:35	WF Sala SG3/SG4	Zajęciapraktyczne-1/2 CKP1 @
+Zajęciapraktyczne-2/2 CKP2 @	Religia-2/8 PS 28	Językpolski AR B102	 
 4	10:40-11:25	 	Zajęciapraktyczne-1/2 CKP1 @
-Zajęciapraktyczne-2/2 CKP2 @	Matematyka KP 17	Językpolski AR B102	Wychowaniefizyczne-1/8 WZ SG2
-1F/1E/Wychowaniefizyczne|36bd0_P-2/8 #1F/1E/Wychowaniefizyczne|36bd0 SG1
+Zajęciapraktyczne-2/2 CKP2 @	Matematyka KP 17	Językpolski AR B102	WF SG Czajcza
 5	11:30-12:15	1F/1E/Językangielski|3138f_P-1/8 #1F/1E/Językangielski|3138f 20
-1E/1F/Językangielski|37936_P-2/8 #1E/1F/Językangielski|37936 21
+1E/1F/Językangielski|37936_P-2/8 #1E/1F/Językangielski|37936 26
 1E/1F/Językangielski|37937_P-3/8 #1E/1F/Językangielski|37937 22
 1F/1E/Językangielski|312fa_P-4/8 #1F/1E/Językangielski|312fa 30	Zajęciapraktyczne-1/2 CKP1 @
-Zajęciapraktyczne-2/2 CKP2 @	Matematyka KP 17	 	Wychowaniefizyczne-1/8 WZ SG2
-1F/1E/Wychowaniefizyczne|36bd0_P-2/8 #1F/1E/Wychowaniefizyczne|36bd0 SG1
+Zajęciapraktyczne-2/2 CKP2 @	Matematyka KP 17	 	WF SG Czajcza
 6	12:30-13:15	1F/1E/Językangielski|3138f_P-1/8 #1F/1E/Językangielski|3138f 20
-1E/1F/Językangielski|37936_P-2/8 #1E/1F/Językangielski|37936 21
+1E/1F/Językangielski|37936_P-2/8 #1E/1F/Językangielski|37936 27
 1E/1F/Językangielski|37937_P-3/8 #1E/1F/Językangielski|37937 22
-1F/1E/Językangielski|312fa_P-4/8 #1F/1E/Językangielski|312fa 30	Fizyka KS 27	Historia OK 38	Biologia NI 37	 
-7	13:20-14:05	Chemia AJ 26	Plastyka TE 34	Elektrotechnikaielektronika ZW 36	Elektrotechnikaielektronika ZW 47	Językpolski AR 23
-8	14:10-14:55	Matematyka KP 17	1D/1E/1F/Językniemiecki|37a39_P-7/8 #1D/1E/1F/Językniemiecki|37a39 18	1C/1D/1E/1F/Językhiszpański|37a36_P-4/8 #1C/1D/1E/1F/Językhiszpański|37a36 20
-1D/1E/1F/Językniemiecki|37a3a_P-6/8 #1D/1E/1F/Językniemiecki|37a3a 21
-1D/1E/1F/Językniemiecki|37a3c_P-8/8 #1D/1E/1F/Językniemiecki|37a3c 16	Elektrotechnikaielektronika ZW 26	1A/1B/1C/1D/1E/1F/Językrosyjski|37a34_P-1/8 #1A/1B/1C/1D/1E/1F/Językrosyjski|37a34 20
-1F/1A/1B/1C/1D/1E/Językniemiecki|37a3e_P-2/8 #1F/1A/1B/1C/1D/1E/Językniemiecki|37a3e 38
-1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d_P-3/8 #1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d 31
-1D/1E/1F/Językniemiecki|37a3b_P-5/8 #1D/1E/1F/Językniemiecki|37a3b 21
-9	15:00-15:45	Elektrotechnikaielektronika ZW 17	1D/1E/1F/Językniemiecki|37a39_P-7/8 #1D/1E/1F/Językniemiecki|37a39 18	1C/1D/1E/1F/Językhiszpański|37a36_P-4/8 #1C/1D/1E/1F/Językhiszpański|37a36 20
-1D/1E/1F/Językniemiecki|37a3a_P-6/8 #1D/1E/1F/Językniemiecki|37a3a 21
-1D/1E/1F/Językniemiecki|37a3c_P-8/8 #1D/1E/1F/Językniemiecki|37a3c 16	Geografia NM 36	1A/1B/1C/1D/1E/1F/Językrosyjski|37a34_P-1/8 #1A/1B/1C/1D/1E/1F/Językrosyjski|37a34 20
-1F/1A/1B/1C/1D/1E/Językniemiecki|37a3e_P-2/8 #1F/1A/1B/1C/1D/1E/Językniemiecki|37a3e 38
-1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d_P-3/8 #1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d 31
-1D/1E/1F/Językniemiecki|37a3b_P-5/8 #1D/1E/1F/Językniemiecki|37a3b 21
-10	15:50-16:35	1A/1B/1C/1D/1E/1F/Etyka|3778e_P-1/8 #1A/1B/1C/1D/1E/1F/Etyka|3778e 22	 	1D/1E/1F/JęzykniemieckiDSDIPro|37a44_P #1D/1E/1F/JęzykniemieckiDSDIPro|37a44 21	 	1D/1E/1F/JęzykniemieckiDSDIPro|37a44_P #1D/1E/1F/JęzykniemieckiDSDIPro|37a44 21
+1F/1E/Językangielski|312fa_P-4/8 #1F/1E/Językangielski|312fa 30	Fizyka KS 27	Historia OK 38	Geografia NM 36	 
+7	13:20-14:05	Chemia AJ 26	Plastyka TE 34	Elektrotechnikaielektronika ZW 36	Elektrotechnikaielektronika ZW 44	Językpolski AR 23
+8	14:10-14:55	Biologia NI 37	1D/1E/Językniemiecki|38bcc_P-8/8 #1D/1E/Językniemiecki|38bcc 33	J. Niemiecki 30 / J. Niemiecki 21/ J. Hiszpański 20	Elektrotechnikaielektronika ZW 26	1A/1B/1C/1D/1E/1F/Językrosyjski|37a34_P-1/8 #1A/1B/1C/1D/1E/1F/Językrosyjski|37a34 20
+1A/1B/1C/1D/1E/Językniemiecki|38bcb_P-2/8 #1A/1B/1C/1D/1E/Językniemiecki|38bcb 38
+1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d_P-3/8 #1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d 32
+9	15:00-15:45	Elektrotechnikaielektronika ZW 38	1D/1E/Językniemiecki|38bcc_P-8/8 #1D/1E/Językniemiecki|38bcc 33	J. Niemiecki 30 / J. Niemiecki 21/ J. Hiszpański 20	 	1A/1B/1C/1D/1E/1F/Językrosyjski|37a34_P-1/8 #1A/1B/1C/1D/1E/1F/Językrosyjski|37a34 20
+1A/1B/1C/1D/1E/Językniemiecki|38bcb_P-2/8 #1A/1B/1C/1D/1E/Językniemiecki|38bcb 38
+1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d_P-3/8 #1E/1A/1B/1C/1D/1F/Językhiszpański|37a3d 32
+10	15:50-16:35	1A/1B/1C/1D/1E/1F/Etyka|3778e_P-1/8 #1A/1B/1C/1D/1E/1F/Etyka|3778e 22	 	 	 	 
 12	0:00- 0:00	1A/1B/1C/1D/1E/1F/Etyka|3778e_P-1/8 #1A/1B/1C/1D/1E/1F/Etyka|3778e 22	 	 	 	 

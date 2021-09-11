@@ -2,14 +2,14 @@
 1	8:00- 8:45	Językangielski-1/2 AF B105
 Językangielski-2/2 EP B106	 	Biologia RO B107	 	 
 2	8:50- 9:35	Językangielski-1/2 AF B105
-Językangielski-2/2 EP B106	Językpolski SG B205	Biologia RO B107	 	3G_La/3G_Lc/Religia|3750c_P #3G_La/3G_Lc/Religia|3750c B107
+Językangielski-2/2 EP B106	 	Biologia RO B107	 	3G_La/3G_Lc/Religia|3750c_P #3G_La/3G_Lc/Religia|3750c B109
 3	9:50-10:35	Wychowaniefizyczne SW BSG	Biologia RO B107	Językangielski-1/2 AF B105
 Językangielski-2/2 EP B102	Zajęciazwychowawcą MI B205	Wychowaniefizyczne SW BSG
-4	10:40-11:25	Chemia MW B109	Matematyka MI B201	Językangielski-1/2 AF B105
+4	10:40-11:25	Chemia MW B109	Językpolski SG B205	Językangielski-1/2 AF B105
 Językangielski-2/2 EP B102	Językhiszpański-1/2 MP B107
 Językniemiecki-2/2 PI B101	Językpolski SG B205
 5	11:30-12:15	Chemia MW B109	Matematyka MI B201	Chemia MW B109	Językpolski SG B205	Językangielski-1/2 AF B105
 6	12:30-13:15	Językhiszpański-1/2 MP B106
 Językniemiecki-2/2 PI B101	Językpolski SG B205	Chemia MW B109	Matematyka MI B201	 
 7	13:20-14:05	Biologia RO B107	Wychowaniefizyczne SW BSG1	Historiaispołeczeństwo WL B102	Językangielski-2/2 EP B105	 
-8	14:10-14:55	Biologia RO B107	 	Językangielski-1/2 AF B103	Językangielski-2/2 EP B105	 
+8	14:10-14:55	Biologia RO B107	Matematyka MI B102	Językangielski-1/2 AF B103	Językangielski-2/2 EP B105	 

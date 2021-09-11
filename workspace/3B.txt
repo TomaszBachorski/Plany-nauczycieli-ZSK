@@ -1,8 +1,8 @@
-0	7:10- 7:55	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	 	Informatyka-1/2 ŁG 50	Bazydanych JR 37	 
+0	7:10- 7:55	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	 	Informatyka-1/2 ŁG 50	 	 
 1	8:00- 8:45	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	 	Pracowniasystemówoperacyjnych-1/2 RK 42
 Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Pracowniasiecikomputerowych-1/2 RK 42
 Pracowniasiecikomputerowych-2/2 KZ 43	 
-2	8:50- 9:35	Językpolski AR 23	Chemia MW B109	Pracowniasystemówoperacyjnych-1/2 RK 42
+2	8:50- 9:35	Językpolski AR 23	 	Pracowniasystemówoperacyjnych-1/2 RK 42
 Pracowniaurządzeńtechnikikomputerowej-2/2 SZ 62	Pracowniasiecikomputerowych-1/2 RK 42
 Pracowniasiecikomputerowych-2/2 KZ 43	Matematyka MW 27
 3	9:50-10:35	Pracowniaurządzeńtechnikikomputerowej-1/2 SZ 62
@@ -23,14 +23,13 @@ Językniemiecki-2/2 RM 21
 3P_A/3P_B/3P_D/Językangielski|36bd4_P-5/6 #3P_A/3P_B/3P_D/Językangielski|36bd4 22
 3P_A/3P_B/3P_D/Językangielski|37a63_P-6/6 #3P_A/3P_B/3P_D/Językangielski|37a63 20
 8	14:10-14:55	3P_A/3P_B/3P_C/Etyka|37a61_P-1/6 #3P_A/3P_B/3P_C/Etyka|37a61 22
-3P_B/3P_C/Religia|32de1_P-2/6 #3P_B/3P_C/Religia|32de1 16	Wychowaniefizyczne-1/2 MT BSG1
+3P_B/3P_C/Religia|32de1_P-2/6 #3P_B/3P_C/Religia|32de1 17	Wychowaniefizyczne-1/2 MT BSG1
 Wychowaniefizyczne-2/2 ZI BSG	Siecikomputerowe RK 57	3P_A/3P_B/3P_D/Językangielski|32de0_P-1/6 #3P_A/3P_B/3P_D/Językangielski|32de0 16
 2P_A/2P_B/2P_D/Językangielski|31856_P-2/6 #2P_A/2P_B/2P_D/Językangielski|31856 31
 3P_A/3P_B/3P_D/Językangielski|37a62_P-3/6 #3P_A/3P_B/3P_D/Językangielski|37a62 30
 3P_A/3P_B/3P_D/Językangielski|37a60_P-4/6 #3P_A/3P_B/3P_D/Językangielski|37a60 32
 3P_A/3P_B/3P_D/Językangielski|36bd4_P-5/6 #3P_A/3P_B/3P_D/Językangielski|36bd4 22
-3P_A/3P_B/3P_D/Językangielski|37a63_P-6/6 #3P_A/3P_B/3P_D/Językangielski|37a63 20	 
+3P_A/3P_B/3P_D/Językangielski|37a63_P-6/6 #3P_A/3P_B/3P_D/Językangielski|37a63 20	Chemia MW 26
 9	15:00-15:45	3P_A/3P_B/3P_C/Etyka|37a61_P-1/6 #3P_A/3P_B/3P_C/Etyka|37a61 22
-3P_B/3P_C/Religia|32de1_P-2/6 #3P_B/3P_C/Religia|32de1 16	Wychowaniefizyczne-1/2 MT BSG1
-Wychowaniefizyczne-2/2 ZI BSG	Siecikomputerowe RK 57	Pracowniasystemówoperacyjnych-2/2 SŁ 42	 
-10	15:50-16:35	 	Bukowska	 	 	 
+3P_B/3P_C/Religia|32de1_P-2/6 #3P_B/3P_C/Religia|32de1 17	Wychowaniefizyczne-1/2 MT BSG1
+Wychowaniefizyczne-2/2 ZI BSG	Siecikomputerowe RK 57	Pracowniasystemówoperacyjnych-2/2 SŁ 42	Bazydanych JR 37

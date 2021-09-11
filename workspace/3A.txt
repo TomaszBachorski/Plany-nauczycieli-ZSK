@@ -1,22 +1,22 @@
 0	7:10- 7:55	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	 	 	 	 
 1	8:00- 8:45	3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5_P #3P_A/3P_B/3P_C/JęzykniemieckiDSDIPro|347f5 21	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
-Układycyfrowe-2/6 KZ 20	 	Wychowaniefizyczne TS SG2	Pracowniaelektrycznaielektroniczna-1/6 JG 48
-Urządzeniaiinstalacjeelektroniczne-2/6 RG 23
+Układycyfrowe-2/6 KZ 43	Historia OK 38	 	Pracowniaelektrycznaielektroniczna-1/6 JG 48
+Urządzeniaiinstalacjeelektroniczne-2/6 RG 31
 2	8:50- 9:35	Historia OK 38	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
-Pomiaryelektryczneielektroniczne-2/6 JG 47	Matematyka KP 17	Wychowaniefizyczne TS SG2	Pracowniaelektrycznaielektroniczna-1/6 JG 48
-Urządzeniaiinstalacjeelektroniczne-2/6 RG 23
+Pomiaryelektryczneielektroniczne-2/6 JG 47	Matematyka KP 17	Wychowaniefizyczne TS BSG	Pracowniaelektrycznaielektroniczna-1/6 JG 48
+Urządzeniaiinstalacjeelektroniczne-2/6 RG 31
 3	9:50-10:35	Maszynyiurządzeniaelektryczne-1/6 AS 27
 Pracowniaeksploatacjiurządzeńelektronicznych-2/6 RG 47	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
-Pomiaryelektryczneielektroniczne-2/6 JG 47	Matematyka KP 17	 	Pracowniaelektrycznaielektroniczna-1/6 JG 48
+Pomiaryelektryczneielektroniczne-2/6 JG 47	Matematyka KP 17	Wychowaniefizyczne TS BSG	Pracowniaelektrycznaielektroniczna-1/6 JG 48
 Systemymikroprocesorowe-2/6 RT 37
 4	10:40-11:25	Maszynyiurządzeniaelektryczne-1/6 AS 27
 Pracowniaeksploatacjiurządzeńelektronicznych-2/6 RG 47	Pracowniamontażuiutrzymaniasiecizasilających-1/6 ZF 48
-Pomiaryelektryczneielektroniczne-2/6 JG 47	Zajęciazwychowawcą RG 47	Historia OK 38	Językniemiecki-1/2 RM 21
+Pomiaryelektryczneielektroniczne-2/6 JG 47	Zajęciazwychowawcą RG 46	 	Językniemiecki-1/2 RM 21
 Językniemiecki-2/2 JT 27
 5	11:30-12:15	Religia-2/6 PS 17	Podstawyprzedsiębiorczości MN 33	Fizyka KJ 27	Sieciipodstacjetrakcyjne-1/6 ZF 44
 Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/6 RG 48	Językpolski PA 36
 6	12:30-13:15	Religia-2/6 PS 17	Matematyka KP 17	Sieciipodstacjetrakcyjne-1/6 ZF 48
-Układyanalogowe-2/6 RG 57	Sieciipodstacjetrakcyjne-1/6 ZF 44
+Układyanalogowe-2/6 RG 20	Sieciipodstacjetrakcyjne-1/6 ZF 44
 Pracowniamontażuinstalacjiiurządzeńelektronicznych-2/6 RG 48	Językpolski PA 36
 7	13:20-14:05	Matematyka KP 17	Informatyka-1/2 KP 40
 Informatyka-2/2 DS 58	Językniemiecki-1/2 RM 21

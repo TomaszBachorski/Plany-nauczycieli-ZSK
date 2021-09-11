@@ -1,11 +1,11 @@
-0	7:10- 7:55	 	 	4C/4D/4E/Religia|3336d_P-2/4 #4C/4D/4E/Religia|3336d 28	 	4B/4C/4D/Etyka|3336c_P-1/4 #4B/4C/4D/Etyka|3336c 22
-1	8:00- 8:45	Pracowniaprogramowania-1/2 MS 41	Pracowniabazdanych-1/2 HK 40
-Pracowniabazdanych-2/2 JR 41	Witrynyinternetowe GL 57	 	Matematyka MR 16
-2	8:50- 9:35	Pracowniaprogramowania-1/2 MS 41	Pracowniabazdanych-1/2 HK 40
+0	7:10- 7:55	 	Pracowniaprogramowania-1/2 MS 50	 	 	Etyka 22 / Religia 26
+1	8:00- 8:45	 	Pracowniabazdanych-1/2 HK 40
+Pracowniabazdanych-2/2 JR 41	Witrynyinternetowe GL 57	Matematyka MR 16	Matematyka MR 16
+2	8:50- 9:35	 	Pracowniabazdanych-1/2 HK 40
 Pracowniabazdanych-2/2 JR 41	4D/4E/Językangielski|32ddb_P-1/4 #4D/4E/Językangielski|32ddb 30
 4D/4E/Językangielski|32dd8_P-2/4 #4D/4E/Językangielski|32dd8 20
 4D/4E/Językangielski|37a68_P-3/4 #4D/4E/Językangielski|37a68 22
-4D/4E/Językangielski|32dda_P-4/4 #4D/4E/Językangielski|32dda 31	 	Językpolski KL 28
+4D/4E/Językangielski|32dda_P-4/4 #4D/4E/Językangielski|32dda 31	Witrynyinternetowe PK 44	Językpolski KL 28
 3	9:50-10:35	 	Pracowniabazdanych-1/2 HK 40
 Pracowniabazdanych-2/2 JR 41	4D/4E/Językangielski|32ddb_P-1/4 #4D/4E/Językangielski|32ddb 30
 4D/4E/Językangielski|32dd8_P-2/4 #4D/4E/Językangielski|32dd8 20
@@ -22,9 +22,9 @@ Informatyka-2/2 ŁG 50	Wychowaniefizyczne-1/2 MT SG2
 Wychowaniefizyczne-2/2 WM SG1	Bazydanych JR 44
 6	12:30-13:15	Matematyka MR 16	 	Matematyka MR 16	 	Pracowniawitryninternetowych-1/2 PK 40
 Pracowniawitryninternetowych-2/2 GL 58
-7	13:20-14:05	Matematyka MR 16	 	Pracowniaprogramowania-2/2 MS 43	Matematyka MR 16	Pracowniawitryninternetowych-1/2 PK 40
+7	13:20-14:05	Historiaispołeczeństwo WS 34	 	Pracowniaprogramowania-2/2 MS 43	Matematyka MR 16	Pracowniawitryninternetowych-1/2 PK 40
 Pracowniawitryninternetowych-2/2 GL 58
-8	14:10-14:55	Historiaispołeczeństwo WS 23	 	Pracowniaprogramowania-2/2 MS 43	Witrynyinternetowe PK SwF	Informatyka-1/2 AL 51
+8	14:10-14:55	Historiaispołeczeństwo WS 34	 	Pracowniaprogramowania-2/2 MS 43	 	Informatyka-1/2 AL 51
 Informatyka-2/2 ŁG 50
-9	15:00-15:45	Historiaispołeczeństwo WS 28	 	 	 	Informatyka-1/2 AL 51
+9	15:00-15:45	Pracowniaprogramowania-1/2 MS 43	 	 	 	Informatyka-1/2 AL 51
 Informatyka-2/2 ŁG 50
